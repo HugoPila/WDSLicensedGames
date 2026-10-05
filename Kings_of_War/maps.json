@@ -1,0 +1,597 @@
+[
+  {
+    "MapName": "Default Map",
+    "Items": [
+      {
+        "Id": "terrain_0",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 23.67,
+        "LongSide": 12.09,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 3,
+        "Rotation": 30,
+        "ShortSide": 7.87,
+        "LongSide": 17.72,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 22.3,
+        "LongSide": 23.79,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_4",
+        "Quadrant": 4,
+        "Rotation": 37,
+        "ShortSide": 27.1,
+        "LongSide": 21.88,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 4,
+        "Rotation": -52,
+        "ShortSide": 31.38,
+        "LongSide": 16.23,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 4,
+        "Rotation": 0,
+        "ShortSide": 13.65,
+        "LongSide": 16.34,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 2,
+        "Rotation": 18,
+        "ShortSide": 7.75,
+        "LongSide": 18.08,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_6",
+        "Quadrant": 2,
+        "Rotation": 18,
+        "ShortSide": 21.05,
+        "LongSide": 14.16,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_3",
+        "Quadrant": 1,
+        "Rotation": -25,
+        "ShortSide": 22.1,
+        "LongSide": 12.4,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 1,
+        "Rotation": -45,
+        "ShortSide": 8.72,
+        "LongSide": 16.34,
+        "Type": "Terrain"
+      }
+    ]
+  },
+  {
+    "MapName": "Map 1",
+    "Items": [
+      {
+        "Id": "terrain_4",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 8.64,
+        "LongSide": 15.26,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 22.63,
+        "LongSide": 14.7,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_6",
+        "Quadrant": 4,
+        "Rotation": 0,
+        "ShortSide": 21.68,
+        "LongSide": 14.7,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 4,
+        "Rotation": 90,
+        "ShortSide": 21.35,
+        "LongSide": 21.91,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 4,
+        "Rotation": 0,
+        "ShortSide": 12.38,
+        "LongSide": 14.15,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 4,
+        "Rotation": 0,
+        "ShortSide": 6.59,
+        "LongSide": 23.59,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_0",
+        "Quadrant": 2,
+        "Rotation": 0,
+        "ShortSide": 20.39,
+        "LongSide": 12.38,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_3",
+        "Quadrant": 1,
+        "Rotation": -19,
+        "ShortSide": 27.51,
+        "LongSide": 13.86,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 35.96,
+        "LongSide": 23.39,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 1,
+        "Rotation": 24,
+        "ShortSide": 11.47,
+        "LongSide": 14.82,
+        "Type": "Terrain"
+      }
+    ]
+  },
+  {
+    "MapName": "Map 2",
+    "Items": [
+      {
+        "Id": "terrain_1",
+        "Quadrant": 2,
+        "Rotation": 0,
+        "ShortSide": 18.23,
+        "LongSide": 12.71,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 2,
+        "Rotation": 12,
+        "ShortSide": 8.25,
+        "LongSide": 15.25,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_6",
+        "Quadrant": 4,
+        "Rotation": 12,
+        "ShortSide": 12.63,
+        "LongSide": 16.82,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_3",
+        "Quadrant": 4,
+        "Rotation": -25,
+        "ShortSide": 27.94,
+        "LongSide": 17.35,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_0",
+        "Quadrant": 1,
+        "Rotation": 0,
+        "ShortSide": 26.9,
+        "LongSide": 19.54,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 26.2,
+        "LongSide": 13.41,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 3,
+        "Rotation": 20,
+        "ShortSide": 16.31,
+        "LongSide": 14.2,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 1,
+        "Rotation": 0,
+        "ShortSide": 11.76,
+        "LongSide": 21.81,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 1,
+        "Rotation": 90,
+        "ShortSide": 7.21,
+        "LongSide": 18.34,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_4",
+        "Quadrant": 1,
+        "Rotation": 0,
+        "ShortSide": 9.75,
+        "LongSide": 11.13,
+        "Type": "Terrain"
+      }
+    ]
+  },
+  {
+    "MapName": "Map 3",
+    "Items": [
+      {
+        "Id": "terrain_1",
+        "Quadrant": 4,
+        "Rotation": 0,
+        "ShortSide": 22.16,
+        "LongSide": 15.97,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 2,
+        "Rotation": 0,
+        "ShortSide": 11.57,
+        "LongSide": 21.44,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_3",
+        "Quadrant": 2,
+        "Rotation": -11,
+        "ShortSide": 23.14,
+        "LongSide": 11.23,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 1,
+        "Rotation": 90,
+        "ShortSide": 35.77,
+        "LongSide": 15.4,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 2,
+        "Rotation": 0,
+        "ShortSide": 31.65,
+        "LongSide": 11.81,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_0",
+        "Quadrant": 2,
+        "Rotation": 0,
+        "ShortSide": 31.58,
+        "LongSide": 15.43,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 3,
+        "Rotation": 6,
+        "ShortSide": 28.45,
+        "LongSide": 17.98,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_4",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 10.86,
+        "LongSide": 21.66,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 1,
+        "Rotation": 6,
+        "ShortSide": 21.62,
+        "LongSide": 14.61,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_6",
+        "Quadrant": 1,
+        "Rotation": 0,
+        "ShortSide": 10.77,
+        "LongSide": 10.06,
+        "Type": "Terrain"
+      }
+    ]
+  },
+  {
+    "MapName": "Map 4",
+    "Items": [
+      {
+        "Id": "terrain_6",
+        "Quadrant": 4,
+        "Rotation": 12,
+        "ShortSide": 13.55,
+        "LongSide": 10.96,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 4,
+        "Rotation": 90,
+        "ShortSide": 9.61,
+        "LongSide": 18.05,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 4,
+        "Rotation": 6,
+        "ShortSide": 28.08,
+        "LongSide": 16.03,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 2,
+        "Rotation": 0,
+        "ShortSide": 18.76,
+        "LongSide": 13.53,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_3",
+        "Quadrant": 3,
+        "Rotation": -12,
+        "ShortSide": 18.77,
+        "LongSide": 20.03,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 25.59,
+        "LongSide": 13.99,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_4",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 11.85,
+        "LongSide": 11.11,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_0",
+        "Quadrant": 1,
+        "Rotation": 0,
+        "ShortSide": 30.5,
+        "LongSide": 17.06,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 1,
+        "Rotation": 0,
+        "ShortSide": 21.83,
+        "LongSide": 10.06,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 1,
+        "Rotation": 25,
+        "ShortSide": 8.18,
+        "LongSide": 15.66,
+        "Type": "Terrain"
+      }
+    ]
+  },
+  {
+    "MapName": "Map 5",
+    "Items": [
+      {
+        "Id": "terrain_1",
+        "Quadrant": 4,
+        "Rotation": 0,
+        "ShortSide": 18.93,
+        "LongSide": 12.77,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 2,
+        "Rotation": 12,
+        "ShortSide": 9.21,
+        "LongSide": 21.05,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 2,
+        "Rotation": 90,
+        "ShortSide": 19.19,
+        "LongSide": 18.16,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_4",
+        "Quadrant": 2,
+        "Rotation": 0,
+        "ShortSide": 21.64,
+        "LongSide": 10.72,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_0",
+        "Quadrant": 2,
+        "Rotation": 0,
+        "ShortSide": 36.0,
+        "LongSide": 9.49,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_6",
+        "Quadrant": 1,
+        "Rotation": 6,
+        "ShortSide": 35.92,
+        "LongSide": 21.22,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 4,
+        "Rotation": 0,
+        "ShortSide": 35.65,
+        "LongSide": 13.48,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 3,
+        "Rotation": 19,
+        "ShortSide": 24.45,
+        "LongSide": 18.9,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_3",
+        "Quadrant": 1,
+        "Rotation": -25,
+        "ShortSide": 6.45,
+        "LongSide": 22.78,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 1,
+        "Rotation": 0,
+        "ShortSide": 12.84,
+        "LongSide": 9.47,
+        "Type": "Terrain"
+      }
+    ]
+  },
+  {
+    "MapName": "Map 6",
+    "Items": [
+      {
+        "Id": "terrain_1",
+        "Quadrant": 4,
+        "Rotation": 0,
+        "ShortSide": 11.84,
+        "LongSide": 13.74,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_4",
+        "Quadrant": 4,
+        "Rotation": 0,
+        "ShortSide": 21.12,
+        "LongSide": 23.28,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 4,
+        "Rotation": -44,
+        "ShortSide": 27.16,
+        "LongSide": 17.33,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_0",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 30.14,
+        "LongSide": 7.17,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_1",
+        "Quadrant": 3,
+        "Rotation": 0,
+        "ShortSide": 29.44,
+        "LongSide": 23.8,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 3,
+        "Rotation": 25,
+        "ShortSide": 13.07,
+        "LongSide": 15.4,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_2",
+        "Quadrant": 2,
+        "Rotation": 12,
+        "ShortSide": 4.84,
+        "LongSide": 15.88,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_6",
+        "Quadrant": 2,
+        "Rotation": 12,
+        "ShortSide": 24.97,
+        "LongSide": 11.16,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_3",
+        "Quadrant": 1,
+        "Rotation": -12,
+        "ShortSide": 31.28,
+        "LongSide": 10.89,
+        "Type": "Terrain"
+      },
+      {
+        "Id": "terrain_5",
+        "Quadrant": 1,
+        "Rotation": -44,
+        "ShortSide": 13.86,
+        "LongSide": 12.56,
+        "Type": "Terrain"
+      }
+    ]
+  }
+]

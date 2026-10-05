@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "62a99ffe-082b-4dd4-bfec-e6db62b6a6a1",
+    "Name": "Xirkaali",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/Jucyliana.github.io/main/Kings_of_War/icons/b2310b96-786d-4da5-8a2f-ab728ac24f83.png"
+  },
+  {
+    "Id": "c2f80e24-14f8-49d7-827d-b427086c865f",
+    "Name": "Trident Realm of Neritica",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://raw.githubusercontent.com/Jucyliana/Jucyliana.github.io/main/Kings_of_War/icons/9428aef1-48f4-430c-938e-bac1bd4fa6cc.png"
+  }
+]

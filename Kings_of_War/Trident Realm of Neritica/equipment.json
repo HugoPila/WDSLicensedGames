@@ -1,0 +1,139 @@
+[
+  {
+    "Id": "equipment_opt_119_javelins",
+    "Name": "Javelins",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_equipment_opt_119_javelins"
+      },
+      {
+        "Id": "rules_26",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_ranged_517",
+    "Name": "Harpoon Gun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_equipment_ranged_517"
+      },
+      {
+        "Id": "rules_26",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_ranged_518",
+    "Name": "Deadly Spitters",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_equipment_ranged_518"
+      },
+      {
+        "Id": "rules_3",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_14"
+      },
+      {
+        "Id": "rules_26",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_ranged_521",
+    "Name": "Javelin",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_equipment_ranged_521"
+      },
+      {
+        "Id": "rules_26",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_ranged_522",
+    "Name": "Icy Waters",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_equipment_ranged_522"
+      },
+      {
+        "Id": "rules_14"
+      },
+      {
+        "Id": "rules_26",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_ranged_523",
+    "Name": "Tidespray",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_equipment_ranged_523"
+      },
+      {
+        "Id": "rules_26",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_ranged_519",
+    "Name": "Amphibian Arbalest",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_equipment_ranged_519"
+      },
+      {
+        "Id": "rules_3",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_26",
+        "Info": "2"
+      },
+      {
+        "Id": "rules_35",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_ranged_520",
+    "Name": "Leviathan Bolts",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_equipment_ranged_520"
+      },
+      {
+        "Id": "rules_3",
+        "Info": "D3+1"
+      },
+      {
+        "Id": "rules_26",
+        "Info": "3"
+      },
+      {
+        "Id": "rules_31"
+      }
+    ]
+  }
+]

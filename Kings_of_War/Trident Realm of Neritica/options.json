@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "options_troop",
+    "Name": "Troop",
+    "Type": 0
+  },
+  {
+    "Id": "options_regiment",
+    "Name": "Regiment",
+    "Type": 0
+  },
+  {
+    "Id": "options_horde",
+    "Name": "Horde",
+    "Type": 0
+  },
+  {
+    "Id": "options_opt_119",
+    "Name": "Javelins",
+    "Type": 1
+  }
+]
