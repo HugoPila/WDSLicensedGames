@@ -48,7 +48,7 @@
     "Id": "units_3145_3",
     "Name": "Naiad Ensnarers Horde",
     "Type": "Unit",
-    "DefaultFront": 3,
+    "DefaultFront": 4,
     "Formation": 0,
     "BasicProfileIds": [
       "profiles_3145_3"
