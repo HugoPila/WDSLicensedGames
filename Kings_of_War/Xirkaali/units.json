@@ -48,7 +48,7 @@
     "Id": "units_3204_3",
     "Name": "Brotherhood of Yan Horde",
     "Type": "Unit",
-    "DefaultFront": 3,
+    "DefaultFront": 4,
     "Formation": 0,
     "BasicProfileIds": [
       "profiles_3204_3"
@@ -108,7 +108,7 @@
     "Id": "units_3205_3",
     "Name": "Chakrams Horde",
     "Type": "Unit",
-    "DefaultFront": 3,
+    "DefaultFront": 4,
     "Formation": 0,
     "BasicProfileIds": [
       "profiles_3205_3"
@@ -213,7 +213,7 @@
     "Id": "units_3201_3",
     "Name": "Warrior Pack Horde",
     "Type": "Unit",
-    "DefaultFront": 3,
+    "DefaultFront": 4,
     "Formation": 0,
     "BasicProfileIds": [
       "profiles_3201_3"
