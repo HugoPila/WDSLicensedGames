@@ -741,7 +741,7 @@
     "Id": "profiles_3221_4",
     "Name": "Witch Hunter Shuugch",
     "Type": "Profile",
-    "BaseId": "bases_50x100",
+    "BaseId": "bases_default",
     "Children": [
       {
         "Id": "statlines_3221_4",
