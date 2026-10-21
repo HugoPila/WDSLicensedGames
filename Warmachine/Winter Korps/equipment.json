@@ -1,0 +1,183 @@
+[
+  {
+    "Id": "equipment_1780655187354",
+    "Name": "Great Axe",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1780654982988",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655426306",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1780656288033",
+    "Name": "Frost Driver",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1780655041419",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655470431",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655533288",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1780915838666",
+    "Name": "Grenade Pod x2",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1780915633820",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780915878596",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1780916071820",
+    "Name": "Harpoon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1780915731745",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780915927855",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1780916106830",
+    "Name": "Heavy Drill",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1780915793271",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780561044160",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1780919271523",
+    "Name": "Battle Saw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1780919115771",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780917499304",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780561044160",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1780919335030",
+    "Name": "Ram Piston",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1780919154209",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780918780765",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780918286186",
+        "Info": "Attack"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1784543817467",
+    "Name": "Pneumatic Lance",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1784543662277",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655470431",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784543765874",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1784543980579",
+    "Name": "Wedge Shield",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1784543959781",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784543871089",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784543765874",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1784544115201",
+    "Name": "Bash",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1784544096826",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1784544257437",
+    "Name": "Hailer Cannons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1784544276533",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784544141585",
+        "Info": ""
+      }
+    ]
+  }
+]

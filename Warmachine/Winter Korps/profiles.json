@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "profiles_1780655099120",
+    "Name": "Kommander Tatiana Sikora",
+    "Type": "Profile",
+    "BaseId": "mpxvu36oh4lnn",
+    "Children": [
+      {
+        "Id": "statlines_1780654924974",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655603484",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655742376",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655824279",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655918627",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655973908",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780656006785",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780560751580",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1780655187354",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1780656288033",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780656037304",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1780656479526",
+    "Name": "Avalanche",
+    "Type": "Profile",
+    "BaseId": "mpxvu36oekz0k",
+    "Children": [
+      {
+        "Id": "statlines_1780656488289",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655603484",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780909410646",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780909454636",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780909648352",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780560751580",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780560815274",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780560835498",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780560859600",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780909930903",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780909956099",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1784543817467",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1784543980579",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1780656579853",
+    "Name": "Sergeant Sergei Krol",
+    "Type": "Profile",
+    "BaseId": "mpxvu36oh4lnn",
+    "Children": [
+      {
+        "Id": "statlines_1780656538722",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655603484",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655824279",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655918627",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655973908",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780656006785",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780916212155",
+        "Info": "Action"
+      },
+      {
+        "Id": "rules_1780916314862",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780560751580",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780563253235",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780916419727",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780916449344",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1780915838666",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1780916071820",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1780916106830",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1780656735435",
+    "Name": "Grunt",
+    "Type": "Profile",
+    "BaseId": "mpxvu36oekz0k",
+    "Children": [
+      {
+        "Id": "statlines_1780656708808",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655603484",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655918627",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780655973908",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780656006785",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780917284539",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780560751580",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1780916419727",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1784544257437",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1784544115201",
+        "Info": ""
+      }
+    ]
+  }
+]

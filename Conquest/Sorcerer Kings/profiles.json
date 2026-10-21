@@ -1,0 +1,98 @@
+[
+  {
+    "Id": "profiles_1784472398334",
+    "Name": "Marid Apsara",
+    "Type": "Profile",
+    "BaseId": "bases_1784448665867",
+    "Children": [
+      {
+        "Id": "statlines_1784672254269",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784590218319",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784450866129",
+        "Info": "5"
+      },
+      {
+        "Id": "rules_1784668101716",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1784668184452",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784590157917",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784668292627",
+        "Info": "7"
+      },
+      {
+        "Id": "rules_1784590203398",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1784669328683",
+    "Name": "Mahabharati Initiates",
+    "Type": "Profile",
+    "BaseId": "base_oni_ayakashi",
+    "Children": [
+      {
+        "Id": "statlines_1784672313849",
+        "Info": ""
+      },
+      {
+        "Id": "rule_cleave",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1784669371472",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784668292627",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1784669423839",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1784669985347",
+    "Name": "Windborne Djinn",
+    "Type": "Profile",
+    "BaseId": "base_oni_ayakashi",
+    "Children": [
+      {
+        "Id": "statlines_1784672347612",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784670017393",
+        "Info": "3"
+      },
+      {
+        "Id": "rules_1784670064337",
+        "Info": "1 (18\")"
+      },
+      {
+        "Id": "rules_1784450866129",
+        "Info": "3"
+      },
+      {
+        "Id": "rules_1784670134944",
+        "Info": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "Factions": {
+    "Brineblood Marauders": {
+      "Warlocks": [
+        "mpxvu36o7g277"
+      ],
+      "Warbeasts": [
+        "mpxvu36ot0en8"
+      ],
+      "Solos": [
+        "mpxvu36olvgk9",
+        "units_1780569422126"
+      ],
+      "Units": [
+        "mpxvu36o8fk8n"
+      ]
+    },
+    "Winter Korps": {
+      "Warcasters": [
+        "units_1780654855695"
+      ],
+      "Warjacks": [
+        "units_1780656441122"
+      ],
+      "Solos": [
+        "units_1780656591894"
+      ],
+      "Units": [
+        "units_1780656677271"
+      ]
+    }
+  },
+  "Cards": {
+    "Command Cards": [
+      "cards_1784538138693",
+      "cards_1784538950655",
+      "cards_1784538826896",
+      "cards_1784538665709",
+      "cards_1784538407521"
+    ],
+    "Brineblood Marauders": {
+      "Commodore Foulblood": [
+        "cards_1780569156121",
+        "cards_1780569174095",
+        "cards_1780569228183",
+        "cards_1780569251298",
+        "cards_1780569263580"
+      ],
+      "Chum": [
+        "cards_1780563011534"
+      ]
+    },
+    "Winter Korps": [
+      "cards_1784542927860",
+      "cards_1784543127103",
+      "cards_1784543186974",
+      "cards_1784543292135",
+      "cards_1784543362283"
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+[
+  {
+    "Id": "cards_1780563011534",
+    "Name": "Excessive Healing",
+    "Type": "Card",
+    "Attributes": {
+      "COST": "1",
+      "RNG": "Slef",
+      "AOE": "-",
+      "POW": "-",
+      "DUR": "Rnd",
+      "OFF": "No"
+    },
+    "Description": "The spellcaster gains Rapid Healing for one round. (When a model with Rapid Healing is damaged by an enemy attack, immediately after the attack is resolved remove d3 damage points form it.)",
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "ImageURL": "",
+      "ImageURLBack": "",
+      "Color": "#5294ff"
+    }
+  },
+  {
+    "Id": "cards_1780569156121",
+    "Name": "Blur",
+    "Type": "Card",
+    "Description": "Target friendly Faction model/unit gains +3 DEF against ranged and arcane attacks.",
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "ImageURL": "",
+      "ImageURLBack": "",
+      "Color": "#6494ff"
+    },
+    "Attributes": {},
+    "Children": [
+      {
+        "Id": "statlines_1784541820081",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "cards_1780569174095",
+    "Name": "Fortify",
+    "Type": "Card",
+    "Description": "Target model in the spellcaster's battlegroup gains +2 ARM. That model and any friendly models B2B with it cannot become knocked down, be pushed, or be moved by a slam.",
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "ImageURL": "",
+      "ImageURLBack": "",
+      "Color": "#6494ff"
+    },
+    "Children": [
+      {
+        "Id": "statlines_1784542247220",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "cards_1780569228183",
+    "Name": "Fortune",
+    "Type": "Card",
+    "Description": "Target friendly Faction model/unit can reroll its missed attack rolls. Each attack roll can be rerolled only once as a result of Fortune.",
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "ImageURL": "",
+      "ImageURLBack": "",
+      "Color": "#6491ff"
+    },
+    "Children": [
+      {
+        "Id": "statlines_1784542265456",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "cards_1780569251298",
+    "Name": "Fury's Strength",
+    "Type": "Card",
+    "Description": "Target friendly Faction warrior model/unit gains +2 to its melee attack damage rolls for one turn.",
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "ImageURL": "",
+      "ImageURLBack": "",
+      "Color": "#6494ff"
+    },
+    "Children": [
+      {
+        "Id": "statlines_1784542284265",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "cards_1780569263580",
+    "Name": "Powder Keg",
+    "Type": "Card",
+    "Description": "On a critical hit, the model directly hit loses its initial attacks and cannot make power attacks or special attacks for one round.",
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "ImageURL": "",
+      "ImageURLBack": "",
+      "Color": "#6494ff"
+    },
+    "Children": [
+      {
+        "Id": "statlines_1784542317763",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "cards_1784538138693",
+    "Name": "Bite and Hold",
+    "Type": "Card",
+    "Description": "Play this card anytime during the activation of one of your models. They gain one of the following effects:\n- The Scenario Element that model/unit is currently securing remains secured until the end of the turn unless it is contested by an enemy model.\n- For one round while that model/unit is within arean Scenario Terrain of 3\" of another Scenario Element, it gains Sturdy. (A model with Sturdy cannot be pushed.)"
+  },
+  {
+    "Id": "cards_1784538407521",
+    "Name": "Put The Fires Out",
+    "Type": "Card",
+    "Description": "Play this card at the start of your Maintenance Phase on one of your models. They gain one of the following effects:\n- Shakeable and continous effects on that model/unit expire.\n- Remove d3+1 damage from that model."
+  },
+  {
+    "Id": "cards_1784538665709",
+    "Name": "Duck and Cover!",
+    "Type": "Card",
+    "Description": "Play this card any time during the activation of one of your non-Leader warrior models. They gain one of the following effects:\n- For one round while that model/unit is within area Scenario Terrain or 3\" of another Scenario Element, it gains Dig In. (While dug in, a model gains cover, Resistance: Blast, and does not block LOS. The model remains dug in until it moves, is placed, or is engaged.)\n- For one round while that model/unit is within area Scenario Terrain or 3\" of another Scenario Element, it gains Set Defence. (Models suffer -2 on charge and slam power attack rolls against a model with Set Defence.)"
+  },
+  {
+    "Id": "cards_1784538826896",
+    "Name": "Careful Reconnaissance",
+    "Type": "Card",
+    "Description": "Play this card any time during the activation of one of your models. They gain one of the following effects:\n- That model/unit gains Pathfinder this activation.\n- That model gains Reposition [3\"] this activation. (At the end of a model/unit with Reposition [3\"]'s activation in which it did not run or fail a charge, it can advance up to 3\", then its activation ends.)"
+  },
+  {
+    "Id": "cards_1784538950655",
+    "Name": "Blessings of the Gods",
+    "Type": "Card",
+    "Description": "Play this card at the start of the activation of one of your models. They gain one of the following effects:\n- That model's weapons gain Blessed and Damage Type: Magical this activation.\n- That model gains one essence, focus, or fury point, or one corpse, rage, or soul token."
+  },
+  {
+    "Id": "cards_1784542927860",
+    "Name": "Avenging Force",
+    "Type": "Card",
+    "Description": "If one or more friendly Faction warrior models were damaged by enemy attacks while in the spellcaster's control range during your opponent's last turn, during your Maintenance Phase one model in the spellcaster's battlegroup in its control range can make a Vengeance Move. A model making a Vengeance Move can advance 3\" and make one basic melee attack. A model can only make one Vengeance Move each turn.",
+    "Children": [
+      {
+        "Id": "statlines_1784542973369",
+        "Info": ""
+      }
+    ],
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "BorderColor": "#000000",
+      "Color": "#ff7c7c",
+      "Color2": "",
+      "TextColor": "#000000",
+      "ImageURL": "",
+      "ImageURLBack": ""
+    }
+  },
+  {
+    "Id": "cards_1784543127103",
+    "Name": "Dauntless Resolve",
+    "Type": "Card",
+    "Description": "Target friendly Faction warrior model/unit gains +3 ARM and Tough.",
+    "Children": [
+      {
+        "Id": "statlines_1784542998204",
+        "Info": ""
+      }
+    ],
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "BorderColor": "#000000",
+      "Color": "#ff7c7c",
+      "Color2": "",
+      "TextColor": "#000000",
+      "ImageURL": "",
+      "ImageURLBack": ""
+    }
+  },
+  {
+    "Id": "cards_1784543186974",
+    "Name": "Frostbite",
+    "Type": "Card",
+    "Description": "Frostbite causes cold damage. On a critical hit, the model hit becomes stationary for one round unless it has Resistance: Cold.",
+    "Children": [
+      {
+        "Id": "statlines_1784543248809",
+        "Info": ""
+      }
+    ],
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "BorderColor": "#000000",
+      "Color": "#ff7c7c",
+      "Color2": "",
+      "TextColor": "#000000",
+      "ImageURL": "",
+      "ImageURLBack": ""
+    }
+  },
+  {
+    "Id": "cards_1784543292135",
+    "Name": "Positive Charge",
+    "Type": "Card",
+    "Description": "\nTarget friendly Faction Cohort model gains +2 to melee attack and melee damage rolls. While within 3\" of the affected Cohort model, other friendly Faction models gain +2 on melee attack and melee damage rolls. Positive Charge lasts for one turn.",
+    "Children": [
+      {
+        "Id": "statlines_1784543048215",
+        "Info": ""
+      }
+    ],
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "BorderColor": "#000000",
+      "Color": "#ff7c7c",
+      "Color2": "",
+      "TextColor": "#000000",
+      "ImageURL": "",
+      "ImageURLBack": ""
+    }
+  },
+  {
+    "Id": "cards_1784543362283",
+    "Name": "Tactical Supremacy",
+    "Type": "Card",
+    "Description": "Target friendly Faction model/unit gains Reposition [3\"]. (At the end of a model/unit with Reposition [3\"]'s activation in which it did not run or fail a charge, it can advance up to 3\", then its activation ends.)",
+    "Children": [
+      {
+        "Id": "statlines_1784543065700",
+        "Info": ""
+      }
+    ],
+    "UIConfig": {
+      "Width": 50,
+      "Length": 50,
+      "IsRound": true,
+      "ShowInitials": true,
+      "Border": true,
+      "BorderColor": "#000000",
+      "Color": "#ff7c7c",
+      "Color2": "",
+      "TextColor": "#000000",
+      "ImageURL": "",
+      "ImageURLBack": ""
+    }
+  }
+]

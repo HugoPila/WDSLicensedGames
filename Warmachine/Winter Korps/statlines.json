@@ -1,0 +1,272 @@
+[
+  {
+    "Id": "statlines_1780654924974",
+    "Name": "Kommander Tatiana Sikora",
+    "Type": "Statline",
+    "Attributes": {
+      "SPD": "5",
+      "AAT": "6",
+      "MAT": "7",
+      "DEF": "13",
+      "HEA": "18",
+      "ARM": "19",
+      "ARC": "7",
+      "CTRL": "14"
+    }
+  },
+  {
+    "Id": "statlines_1780654982988",
+    "Name": "Great Axe",
+    "Type": "Statline",
+    "Attributes": {
+      "MAT": "7",
+      "RNG": "2",
+      "POW": "16"
+    }
+  },
+  {
+    "Id": "statlines_1780655041419",
+    "Name": "Frost Driver",
+    "Type": "Statline",
+    "Attributes": {
+      "MAT": "7",
+      "RNG": "1",
+      "POW": "12"
+    }
+  },
+  {
+    "Id": "statlines_1780656488289",
+    "Name": "Avalanche",
+    "Type": "Statline",
+    "Attributes": {
+      "SPD": "4",
+      "MAT": "6",
+      "DEF": "10",
+      "HEA": "34",
+      "ARM": "20"
+    }
+  },
+  {
+    "Id": "statlines_1780656538722",
+    "Name": "Sergeant Sergei Krol",
+    "Type": "Statline",
+    "Attributes": {
+      "SPD": "4",
+      "MAT": "6",
+      "RAT": "6",
+      "DEF": "10",
+      "HEA": "10",
+      "ARM": "19"
+    }
+  },
+  {
+    "Id": "statlines_1780656708808",
+    "Name": "Grunt",
+    "Type": "Statline",
+    "Attributes": {
+      "SPD": "4",
+      "MAT": "6",
+      "DEF": "10",
+      "HEA": "10",
+      "ARM": "19"
+    }
+  },
+  {
+    "Id": "statlines_1780915633820",
+    "Name": "Grenade Pod",
+    "Type": "Statline",
+    "Attributes": {
+      "RAT": "6",
+      "RNG": "10",
+      "ROF": "1",
+      "AOE": "2",
+      "POW": "13/8"
+    }
+  },
+  {
+    "Id": "statlines_1780915731745",
+    "Name": "Harpoon",
+    "Type": "Statline",
+    "Attributes": {
+      "RAT": "6",
+      "RNG": "8",
+      "ROF": "1",
+      "AOE": "-",
+      "POW": "13"
+    }
+  },
+  {
+    "Id": "statlines_1780915793271",
+    "Name": "Heavy Drill",
+    "Type": "Statline",
+    "Attributes": {
+      "MAT": "6",
+      "RNG": "1",
+      "POW": "15"
+    }
+  },
+  {
+    "Id": "statlines_1780919115771",
+    "Name": "Battle Saw",
+    "Type": "Statline",
+    "Attributes": {
+      "MAT": "6",
+      "RNG": "1",
+      "POW": "14"
+    }
+  },
+  {
+    "Id": "statlines_1780919154209",
+    "Name": "Ram Piston",
+    "Type": "Statline",
+    "Attributes": {
+      "MAT": "6",
+      "RNG": "1",
+      "POW": "14"
+    }
+  },
+  {
+    "Id": "statlines_1784542973369",
+    "Name": "Avenging Force",
+    "Type": "Statline",
+    "Attributes": {
+      "AAT": "6",
+      "COST": "2",
+      "RNG": "Self",
+      "AOE": "Ctrl",
+      "POW": "",
+      "DUR": "Up",
+      "OFF": "No"
+    }
+  },
+  {
+    "Id": "statlines_1784542998204",
+    "Name": "Dauntless Resolve",
+    "Type": "Statline",
+    "Attributes": {
+      "AAT": "6",
+      "COST": "2",
+      "RNG": "6",
+      "AOE": "",
+      "POW": "",
+      "DUR": "Up",
+      "OFF": "No"
+    }
+  },
+  {
+    "Id": "statlines_1784543019099",
+    "Name": "Forstbite",
+    "Type": "Statline",
+    "Attributes": {
+      "AAT": "6",
+      "COST": "2",
+      "RNG": "Sp 8",
+      "AOE": "",
+      "POW": "12",
+      "DUR": "*",
+      "OFF": "Yes"
+    }
+  },
+  {
+    "Id": "statlines_1784543048215",
+    "Name": "Positive Charge",
+    "Type": "Statline",
+    "Attributes": {
+      "AAT": "6",
+      "COST": "3",
+      "RNG": "6",
+      "AOE": "",
+      "POW": "",
+      "DUR": "Turn",
+      "OFF": "No"
+    }
+  },
+  {
+    "Id": "statlines_1784543065700",
+    "Name": "Tactical Supremacy",
+    "Type": "Statline",
+    "Attributes": {
+      "AAT": "6",
+      "COST": "2",
+      "RNG": "6",
+      "AOE": "",
+      "POW": "",
+      "DUR": "Up",
+      "OFF": "No"
+    }
+  },
+  {
+    "Id": "statlines_1784543248809",
+    "Name": "Frostbite",
+    "Type": "Statline",
+    "Attributes": {
+      "AAT": "6",
+      "COST": "1",
+      "RNG": "Sp 8",
+      "AOE": "",
+      "POW": "12",
+      "DUR": "*",
+      "OFF": "Yes"
+    }
+  },
+  {
+    "Id": "statlines_1784543662277",
+    "Name": "Pneumatic Lance",
+    "Type": "Statline",
+    "Attributes": {
+      "MAT": "6",
+      "RNG": "2",
+      "POW": "17"
+    },
+    "Children": [
+      {
+        "Id": "rules_1780655470431",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "statlines_1784543959781",
+    "Name": "Wedge Shield",
+    "Type": "Statline",
+    "Attributes": {
+      "MAT": "6",
+      "RNG": "1",
+      "POW": "15"
+    }
+  },
+  {
+    "Id": "statlines_1784544096826",
+    "Name": "Bash",
+    "Type": "Statline",
+    "Attributes": {
+      "MAT": "5",
+      "RNG": "1",
+      "POW": "10"
+    }
+  },
+  {
+    "Id": "statlines_1784544191511",
+    "Name": "New statlines",
+    "Type": "Statline",
+    "Attributes": {
+      "RAT": "",
+      "RNG": "",
+      "ROF": "",
+      "AOE": "",
+      "POW": ""
+    }
+  },
+  {
+    "Id": "statlines_1784544276533",
+    "Name": "Hailer Cannons",
+    "Type": "Statline",
+    "Attributes": {
+      "RAT": "5",
+      "RNG": "10",
+      "ROF": "1d3+1",
+      "AOE": "",
+      "POW": "12"
+    }
+  }
+]

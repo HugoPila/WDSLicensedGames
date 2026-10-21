@@ -1,0 +1,51 @@
+[
+  {
+    "Id": "units_1784472486611",
+    "Name": "Marid Apsara",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1784472398334"
+    ],
+    "Attributes": {
+      "Type": "Monster",
+      "Class": "Heavy",
+      "Battlefield Role": "[Elemental],[Court of Water]",
+      "Draw Event": "Elemental Conduit"
+    }
+  },
+  {
+    "Id": "units_1784669227480",
+    "Name": "Mahabharati Initiates",
+    "Type": "Unit",
+    "DefaultFront": 3,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1784669328683"
+    ],
+    "ModelsPerBaseX": 2,
+    "ModelsPerBaseY": 2,
+    "Attributes": {
+      "Type": "Infantry",
+      "Class": "Medium",
+      "Battlefield Role": "[Mortals],[Mahabharati]"
+    }
+  },
+  {
+    "Id": "units_1784669661804",
+    "Name": "Windborne Djinn",
+    "Type": "Unit",
+    "DefaultFront": 3,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1784669985347"
+    ],
+    "Attributes": {
+      "Type": "Brute",
+      "Class": "Medium",
+      "Battlefield Role": "[Elemental], [Court of Air]",
+      "Draw Event": "Elemental Conduit"
+    }
+  }
+]

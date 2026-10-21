@@ -1,0 +1,51 @@
+[
+  {
+    "Id": "unit_oni_ayakashi",
+    "Name": "Oni Ayakashi",
+    "Type": "Unit",
+    "Description": "",
+    "BasicProfileIds": [
+      "prof_oni_ayakashi"
+    ],
+    "Children": [],
+    "DefaultFront": 3,
+    "Formation": 0,
+    "ModelsPerBaseX": 1,
+    "ModelsPerBaseY": 1,
+    "Attributes": {
+      "Type": "Brute",
+      "Class": "Medium",
+      "Battlefield Role": "[KA]"
+    }
+  },
+  {
+    "Id": "units_1784448480183",
+    "Name": "Oni Kishin Raiu",
+    "Type": "Unit",
+    "DefaultFront": 2,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1784448539981"
+    ],
+    "Attributes": {
+      "Type": "Cavalry",
+      "Class": "Heavy",
+      "Battlefield Role": "[KA]"
+    }
+  },
+  {
+    "Id": "units_1784466590639",
+    "Name": "Daimyo",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1784466193771"
+    ],
+    "Attributes": {
+      "Type": "Brute",
+      "Class": "-",
+      "Battlefield Role": "[CHARACTER]"
+    }
+  }
+]

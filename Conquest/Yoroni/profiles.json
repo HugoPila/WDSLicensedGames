@@ -1,0 +1,97 @@
+[
+  {
+    "Id": "prof_oni_ayakashi",
+    "Name": "Oni Ayakashi",
+    "Type": "Profile",
+    "BaseId": "base_oni_ayakashi",
+    "Children": [
+      {
+        "Id": "stat_oni_ayakashi"
+      },
+      {
+        "Id": "rule_cleave",
+        "Info": "2"
+      },
+      {
+        "Id": "rules_1784450866129",
+        "Info": "2"
+      },
+      {
+        "Id": "rules_1784466840930",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1784448539981",
+    "Name": "Oni Kishin Raiu",
+    "Type": "Profile",
+    "BaseId": "bases_1784448651329",
+    "Children": [
+      {
+        "Id": "statlines_1784448706178",
+        "Info": ""
+      },
+      {
+        "Id": "rule_cleave",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1784450866129",
+        "Info": "5"
+      },
+      {
+        "Id": "rules_1784450716989",
+        "Info": "2"
+      },
+      {
+        "Id": "rules_1784451360091",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784450943871",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1784451167330",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784450478577",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784450570820",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1784466193771",
+    "Name": "Daimyo",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1784466237222",
+        "Info": ""
+      },
+      {
+        "Id": "rule_cleave",
+        "Info": "2"
+      },
+      {
+        "Id": "rules_1784450866129",
+        "Info": "3"
+      },
+      {
+        "Id": "rules_1784466289599",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1784466458610",
+        "Info": ""
+      }
+    ],
+    "BaseId": "base_oni_ayakashi"
+  }
+]

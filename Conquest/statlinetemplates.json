@@ -1,0 +1,24 @@
+[
+  {
+    "Id": "statlinetemplates_1784586936498",
+    "Name": "Soldier",
+    "Attributes": {
+      "M": "",
+      "V": "",
+      "C": "",
+      "A": "",
+      "W": "",
+      "R": "",
+      "D": "",
+      "E": ""
+    }
+  },
+  {
+    "Id": "statlinetemplates_1784668484310",
+    "Name": "Spell",
+    "Attributes": {
+      "Range": "",
+      "Attun": ""
+    }
+  }
+]
