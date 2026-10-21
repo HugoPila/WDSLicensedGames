@@ -1,0 +1,200 @@
+[
+  {
+    "Id": "terrain_0",
+    "SkinId": 11625,
+    "Name": "7x11_5_I default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_1",
+    "SkinId": 11626,
+    "Name": "7x11_5_J default",
+    "Type": "Terrain",
+    "Width": 26.67,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_2",
+    "SkinId": 11627,
+    "Name": "7x11_5_K default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_3",
+    "SkinId": 11628,
+    "Name": "7x11_5_L default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_4",
+    "SkinId": 11629,
+    "Name": "10x11_5 A default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 25.4,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_5",
+    "SkinId": 11630,
+    "Name": "10x11_5 B default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 25.4,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_6",
+    "SkinId": 11634,
+    "Name": "7x11_5_M default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_7",
+    "SkinId": 11635,
+    "Name": "7x11_5_N default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_8",
+    "SkinId": 11636,
+    "Name": "8x11_5_B default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 20.32,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_9",
+    "SkinId": 11637,
+    "Name": "7x11_5_O default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_10",
+    "SkinId": 11638,
+    "Name": "7x11_5_P default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_11",
+    "SkinId": 11639,
+    "Name": "7x11_5_Q default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_12",
+    "SkinId": 11620,
+    "Name": "7x11_5_C default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_13",
+    "SkinId": 11621,
+    "Name": "7x11_5_D default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_14",
+    "SkinId": 11622,
+    "Name": "7x11_5_E default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_15",
+    "SkinId": 11623,
+    "Name": "7x11_5_F default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_16",
+    "SkinId": 11624,
+    "Name": "7x11_5_H default",
+    "Type": "Terrain",
+    "Width": 29.21,
+    "Length": 17.78,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_17",
+    "SkinId": 11421,
+    "Name": "6x2_A default",
+    "Type": "Terrain",
+    "Width": 15.24,
+    "Length": 5.08,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_18",
+    "SkinId": 11422,
+    "Name": "6x2_B default",
+    "Type": "Terrain",
+    "Width": 15.24,
+    "Length": 5.08,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_19",
+    "SkinId": 11423,
+    "Name": "6x4_A default",
+    "Type": "Terrain",
+    "Width": 15.24,
+    "Length": 10.16,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_20",
+    "SkinId": 11424,
+    "Name": "6x4_B default",
+    "Type": "Terrain",
+    "Width": 15.24,
+    "Length": 10.16,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_21",
+    "SkinId": 11428,
+    "Name": "10x2_5 default",
+    "Type": "Terrain",
+    "Width": 25.4,
+    "Length": 6.35,
+    "Shape": 0
+  }
+]

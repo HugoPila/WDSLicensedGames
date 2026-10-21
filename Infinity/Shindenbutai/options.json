@@ -1,0 +1,5354 @@
+[
+  {
+    "Id": "options_cb158_1_1",
+    "Name": "Combi Rifle, Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_doctor"
+      },
+      {
+        "Id": "equipment_cb_e106"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb158_1_2",
+    "Name": "D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_engineer"
+      },
+      {
+        "Id": "equipment_cb_e238"
+      },
+      {
+        "Id": "equipment_cb_e237"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb158_1_3",
+    "Name": "D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_engineer"
+      },
+      {
+        "Id": "equipment_cb_e238"
+      },
+      {
+        "Id": "equipment_cb_e237"
+      },
+      {
+        "Id": "equipment_cb_e245"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb158_1_4",
+    "Name": "D-Charges & Armed Turret (Combi R.)",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w209"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_engineer"
+      },
+      {
+        "Id": "equipment_cb_e238"
+      },
+      {
+        "Id": "equipment_cb_e237"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1817_1_1",
+    "Name": "Combi Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1817_1_2",
+    "Name": "Heavy Machine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w2"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1817_1_3",
+    "Name": "Shock Marksman Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w155"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1817_1_4",
+    "Name": "Combi Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_commlink",
+        "Info": "+1"
+      },
+      {
+        "Id": "rules_1787558979759"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1817_1_6",
+    "Name": "Combi Rifle & Flash Pulse",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_forward_observer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1817_1_7",
+    "Name": "Combi Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_paramedic"
+      },
+      {
+        "Id": "equipment_cb_e106"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1817_1_8",
+    "Name": "Combi Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_lieutenant"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1826_1_1",
+    "Name": "MULTI Marksman Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w169"
+      },
+      {
+        "Id": "equipment_cb_w211"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1826_1_2",
+    "Name": "Submachine Gun, Shock Mine & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w211"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e145"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1826_1_3",
+    "Name": "Submachine Gun, Flash Pulse, Shock Mine & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w211"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_forward_observer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1829_1_1",
+    "Name": "MULTI Rifle, Nanopulser, Pistol & Viral CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w41"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w13",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1825_1_1",
+    "Name": "Submachine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w63"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1825_1_2",
+    "Name": "Light Shotgun & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w63"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1825_1_3",
+    "Name": "Submachine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w63"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_minelayer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1788_1_1",
+    "Name": "AP Heavy Machine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w3"
+      },
+      {
+        "Id": "equipment_cb_w145"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w8",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1788_1_2",
+    "Name": "Spitfire MULTI",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w217"
+      },
+      {
+        "Id": "equipment_cb_w145"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w8",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1788_1_3",
+    "Name": "Spitfire MULTI",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w217"
+      },
+      {
+        "Id": "equipment_cb_w145"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w8",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_lieutenant"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1788_2_1",
+    "Name": "KOBARUTO",
+    "Type": 4,
+    "ItemsToAdd": []
+  },
+  {
+    "Id": "options_cb1833_1_1",
+    "Name": "Flash Pulse & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1823_1_1",
+    "Name": "Deployable Repeater",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w111"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_nco"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1823_1_2",
+    "Name": "Red Fury",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w152"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_nco"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1823_1_3",
+    "Name": "Spitfire",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w74"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_nco"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1823_1_4",
+    "Name": "Deployable Repeater",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w111"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_lieutenant",
+        "Info": "+1 Order"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1823_1_5",
+    "Name": "Red Fury",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w152"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_lieutenant",
+        "Info": "+1 Order"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1823_1_6",
+    "Name": "Spitfire",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w74"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_lieutenant",
+        "Info": "+1 Order"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb50_1_1",
+    "Name": "Flash Pulse, Stun Pistol & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w92"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "equipment_cb_e113"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb50_1_2",
+    "Name": "Flash Pulse, Stun Pistol & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w92"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_sixth_sense"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_1_1",
+    "Name": "Heavy Machine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w2"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_1_2",
+    "Name": "MULTI Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w36"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_1_3",
+    "Name": "MULTI Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w41"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_1787558979759"
+      },
+      {
+        "Id": "equipment_cb_e237"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_1_4",
+    "Name": "AP Submachine Gun & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w214"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_1_5",
+    "Name": "MULTI Rifle & Flash Pulse",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w41"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_forward_observer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_1_6",
+    "Name": "AP Submachine Gun & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w214"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_paramedic"
+      },
+      {
+        "Id": "equipment_cb_e106"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_2_1",
+    "Name": "Heavy Machine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w2"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_2_2",
+    "Name": "AP Spitfire & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w157"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_2_3",
+    "Name": "AP Submachine Gun & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w214"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_2_4",
+    "Name": "Mk12",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w64",
+        "Info": "AP"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_paramedic"
+      },
+      {
+        "Id": "equipment_cb_e106"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_3_1",
+    "Name": "Mine Dispenser",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w176",
+        "Info": "Shock"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1938_3_2",
+    "Name": "Combi Rifle & Flash Pulse",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w72",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      },
+      {
+        "Id": "rules_cb_forward_observer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1818_1_1",
+    "Name": "Nanopulser, Flash Pulse, Heavy Pistol & Shock CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_lieutenant"
+      },
+      {
+        "Id": "rules_cb_strategos_l1"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1818_1_2",
+    "Name": "Nanopulser, Flash Pulse, Heavy Pistol & Shock CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_lieutenant",
+        "Info": "+1 Order"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb159_1_1",
+    "Name": "Spitfire",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w74"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "equipment_cb_e115"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb159_1_2",
+    "Name": "Red Fury & Mine Dispenser",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w152"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "equipment_cb_w176",
+        "Info": "Shock"
+      },
+      {
+        "Id": "equipment_cb_e114"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1333_1_1",
+    "Name": "Boarding Shotgun, Adhesive Launcher Rifle & E/M Grenades",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w216"
+      },
+      {
+        "Id": "equipment_cb_w47"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1333_1_2",
+    "Name": "Submachine Gun, Chain Rifle & Drop Bears",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w96"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1333_1_3",
+    "Name": "Submachine Gun, Chain Rifle, Drop Bears & Armed Turret (AP Rifle)",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w96"
+      },
+      {
+        "Id": "equipment_cb_w219"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1333_1_4",
+    "Name": "Rifle, Light Shotgun, Akrylat-Kanone & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w31"
+      },
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w1"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "equipment_cb_e113"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1832_1_1",
+    "Name": "Missile Launcher & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w58"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1824_1_1",
+    "Name": "Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1824_1_2",
+    "Name": "Tactical Bow",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w193"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_paramedic"
+      },
+      {
+        "Id": "equipment_cb_e106"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1824_1_3",
+    "Name": "Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": "1 Use"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1824_1_4",
+    "Name": "Tactical Bow & Shock Mine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w193"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": "1 Use"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1824_1_5",
+    "Name": "Tactical Bow & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w193",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": "1 Use"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1822_1_1",
+    "Name": "AP Heavy Machine Gun, Chain Rifle & Pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w3"
+      },
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w78",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1822_1_2",
+    "Name": "Heavy Rocket Launcher & Assault Pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w89",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w70"
+      },
+      {
+        "Id": "equipment_cb_w78",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1822_1_3",
+    "Name": "Heavy Rocket Launcher & Assault Pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w89",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w70"
+      },
+      {
+        "Id": "equipment_cb_w78",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "rules_cb_strategic_deployment"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1924_1_1",
+    "Name": "Heavy Machine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w2"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1924_1_2",
+    "Name": "Mk12",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w64",
+        "Info": "AP"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1924_1_3",
+    "Name": "MULTI Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w41"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_1787558979759"
+      },
+      {
+        "Id": "equipment_cb_e237"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1924_1_4",
+    "Name": "AP Submachine Gun & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w214"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1924_1_5",
+    "Name": "MULTI Rifle & Flash Pulse",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w41"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_forward_observer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1924_1_6",
+    "Name": "AP Submachine Gun & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w214"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_paramedic"
+      },
+      {
+        "Id": "equipment_cb_e106"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1924_2_1",
+    "Name": "Mine Dispenser",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w176",
+        "Info": "Shock"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1924_2_2",
+    "Name": "Flash Pulse",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w72",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      },
+      {
+        "Id": "rules_cb_forward_observer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1019_1_1",
+    "Name": "E/Mitter",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w25"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1019_1_2",
+    "Name": "Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1019_1_3",
+    "Name": "E/Mitter",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w25"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_forward_deployment",
+        "Info": "+20"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb224_1_741",
+    "Name": "Contender, Nanopulser, Smoke Grenades, Smoke Grenade Launcher, Crazykoala, Pistol & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w19",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w45"
+      },
+      {
+        "Id": "equipment_cb_w195"
+      },
+      {
+        "Id": "equipment_cb_w20"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb668_1_1",
+    "Name": "T2 Boarding Shotgun, Smoke Grenades, Pistol & EXP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w27"
+      },
+      {
+        "Id": "equipment_cb_w45"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w8",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1834_1_1",
+    "Name": "Contender, Nanopulser, Smoke Grenades, Crazykoala, Pistol & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w19",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w45"
+      },
+      {
+        "Id": "equipment_cb_w20"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1831_1_1",
+    "Name": "Heavy Machine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w2"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1831_1_2",
+    "Name": "Mk12",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w64"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1831_1_3",
+    "Name": "Thunderbolt & Smoke Grenade Launcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w207"
+      },
+      {
+        "Id": "equipment_cb_w195"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1569_1_2",
+    "Name": "AP Spitfire & Heavy Flamethrower",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w157"
+      },
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1569_1_3",
+    "Name": "AP Spitfire & Chain-colt",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w157"
+      },
+      {
+        "Id": "equipment_cb_w80",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1569_1_4",
+    "Name": "Heavy Shotgun & Thunderbolt",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w29"
+      },
+      {
+        "Id": "equipment_cb_w207",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1569_1_5",
+    "Name": "Heavy Shotgun, Heavy Rocket Launcher & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w29"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "equipment_cb_w89"
+      },
+      {
+        "Id": "equipment_cb_w68",
+        "Info": "+1B"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1569_2_1",
+    "Name": "TURTLEMEK",
+    "Type": 4,
+    "ItemsToAdd": []
+  },
+  {
+    "Id": "options_cb1820_1_1",
+    "Name": "Boarding Shotgun & Shock Mine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=7"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1820_1_2",
+    "Name": "Boarding Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1820_1_3",
+    "Name": "Boarding Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e145"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1820_1_4",
+    "Name": "Submachine Gun, Flash Pulse & Shock Mine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_forward_observer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1828_1_1",
+    "Name": "Light Shotgun, Pistol & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_1787558979759"
+      },
+      {
+        "Id": "equipment_cb_e237"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb160_1_1",
+    "Name": "Mk12 & Heavy Flamethrower",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w64"
+      },
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "equipment_cb_w197"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb160_1_2",
+    "Name": "Thunderbolt & E/M Carbine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w207"
+      },
+      {
+        "Id": "equipment_cb_w213"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "equipment_cb_w197"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1821_1_1",
+    "Name": "Light Shotgun & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1821_1_2",
+    "Name": "Light Shotgun & E/M CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1821_1_3",
+    "Name": "Light Shotgun, E/Mitter & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w25"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1821_1_4",
+    "Name": "Light Shotgun, Thunderbolt & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w207"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1821_1_5",
+    "Name": "Submachine Gun & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1830_1_1",
+    "Name": "Combi Rifle, Flash Pulse & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_sensor"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1830_1_2",
+    "Name": "Combi Rifle, Flash Pulse & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w72",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1160_1_1",
+    "Name": "Submachine Gun, Viral Mine, Viral Pistol & Shock CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w63"
+      },
+      {
+        "Id": "equipment_cb_w156"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_minelayer"
+      },
+      {
+        "Id": "rules_cb_decoy",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1160_1_2",
+    "Name": "Submachine Gun, Viral Mine, Viral Pistol & Shock CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w63"
+      },
+      {
+        "Id": "equipment_cb_w156"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_minelayer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1819_1_1",
+    "Name": "Boarding Shotgun, Chain-colt & Flash Pulse",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w80"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_chain_of_command"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1819_1_2",
+    "Name": "MULTI Rifle & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w41"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_1787558979759"
+      },
+      {
+        "Id": "equipment_cb_e238"
+      },
+      {
+        "Id": "equipment_cb_e237"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1819_1_3",
+    "Name": "Submachine Gun, Pitcher & Disco Baller",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w154"
+      },
+      {
+        "Id": "equipment_cb_w208"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1819_1_4",
+    "Name": "Boarding Shotgun & Contender",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w19"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_paramedic"
+      },
+      {
+        "Id": "equipment_cb_e106"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1819_1_5",
+    "Name": "Heavy Machine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w2"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "equipment_cb_e115"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1819_1_6",
+    "Name": "MULTI Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w36"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "equipment_cb_e115"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1819_1_7",
+    "Name": "Heavy Machine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w2"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_lieutenant"
+      },
+      {
+        "Id": "equipment_cb_e115"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb162_1_1",
+    "Name": "PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "equipment_cb_e238"
+      },
+      {
+        "Id": "equipment_cb_e63"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb162_1_2",
+    "Name": "PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e182"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb162_1_3",
+    "Name": "Combi Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_1789475958474"
+      },
+      {
+        "Id": "equipment_cb_e63"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb162_1_4",
+    "Name": "Light Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "equipment_cb_e63"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1827_1_1",
+    "Name": "Light Flamethrower & Contender",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w56"
+      },
+      {
+        "Id": "equipment_cb_w19"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1827_1_2",
+    "Name": "Heavy Flamethrower & Flammenspeer",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w82"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb161_1_1",
+    "Name": "PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb167_1_2",
+    "Name": "Heavy Rocket Launcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w89"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb167_1_3",
+    "Name": "Missile Launcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w58"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb135_1_1",
+    "Name": "Tactical Bow & Shock Mine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w193",
+        "Info": "+1SD"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb135_1_4",
+    "Name": "Submachine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb135_1_5",
+    "Name": "MULTI Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w36"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb135_1_6",
+    "Name": "Submachine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb135_1_7",
+    "Name": "Tactical Bow & Shock Mine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w193",
+        "Info": "+1SD"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e145"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb135_1_9",
+    "Name": "Boarding Shotgun & Flash Pulse",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_cb_forward_observer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1874_1_1",
+    "Name": "Flash Pulse, E/M Grenades, Stun Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w47",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w92",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1940_1_2",
+    "Name": "Chain Rifle, Viral Tactical Bow, Grenades, AP Heavy Pistol & AP + T2 CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w179",
+        "Info": "+1SD"
+      },
+      {
+        "Id": "equipment_cb_w44",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w100",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w224",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb1890_1_1",
+    "Name": "Adhesive Launcher Rifle, Flash Pulse, E/M Grenades, Stun Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w216"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w47"
+      },
+      {
+        "Id": "equipment_cb_w92"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11555_1_1",
+    "Name": "MULTI Rifle, Chain-colt, Heavy Pistol, DA CC Weapon & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w41",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w80"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w11"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11502_1_1",
+    "Name": "MULTI Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w36"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11502_1_2",
+    "Name": "Shock Marksman Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w155"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_1787554389268",
+        "Info": "AP"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11502_1_3",
+    "Name": "Thunderbolt & PARA Mine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w207"
+      },
+      {
+        "Id": "equipment_cb_w220"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "rules_1787554389268",
+        "Info": "T2"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11333_1_1",
+    "Name": "Boarding Shotgun, Adhesive Launcher Rifle & E/M Grenades",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w216"
+      },
+      {
+        "Id": "equipment_cb_w47"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11333_1_2",
+    "Name": "Submachine Gun, Chain Rifle & Drop Bears",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w96"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11333_1_3",
+    "Name": "Submachine Gun, Chain Rifle, Drop Bears & Armed Turret (AP Rifle)",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w96"
+      },
+      {
+        "Id": "equipment_cb_w219"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11333_1_4",
+    "Name": "Rifle, Light Shotgun, Akrylat-Kanone & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w31"
+      },
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w1"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "equipment_cb_e113"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11505_1_1",
+    "Name": "Submachine Gun, Nanopulser, Flash Pulse, Pistol & AP + EXP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w227",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11345_1_5",
+    "Name": "Vulkan Shotgun & Flash Pulse",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w81"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11345_1_6",
+    "Name": "MULTI Marksman Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w169"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11345_1_7",
+    "Name": "Vulkan Shotgun & Flash Pulse",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w81"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_strategic_deployment"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11345_1_8",
+    "Name": "MULTI Marksman Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w169"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_strategic_deployment"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11556_1_6",
+    "Name": "K1 Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w110"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w189"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=7"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11556_1_7",
+    "Name": "Weapon None, Weapon None & Combi Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_wNone"
+      },
+      {
+        "Id": "equipment_cb_wNone"
+      },
+      {
+        "Id": "equipment_cb_w33",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w189"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_chain_of_command"
+      },
+      {
+        "Id": "equipment_cb_e117"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10050_1_1",
+    "Name": "Flash Pulse, Stun Pistol & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w92"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "equipment_cb_e113"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10050_1_2",
+    "Name": "Flash Pulse, Stun Pistol & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w92"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_sixth_sense"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11072_1_1",
+    "Name": "Breaker Combi Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w103",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w70"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11072_1_3",
+    "Name": "Combi Rifle, Grenade Launcher & E/M Grenade Launcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w194"
+      },
+      {
+        "Id": "equipment_cb_w201"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w72",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w70"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11564_1_1",
+    "Name": "Contender, Drop Bears, D-Charges, Breaker Pistol & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w19",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w96"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_super_jump"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11564_1_2",
+    "Name": "Contender, Drop Bears, D-Charges, Breaker Pistol & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w19",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w96"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_climbing_plus"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11564_1_3",
+    "Name": "Breaker Pistol, Contender, Drop Bears, D-Charges & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w19",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w96"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_climbing_plus"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11564_2_1",
+    "Name": "Vulkan Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w81"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10680_1_2338",
+    "Name": "Shock Mine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w36"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w98",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w13",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_minelayer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10680_1_2339",
+    "Name": "MULTI Sniper Rifle, Nanopulser, Breaker Pistol & Viral CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w36"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w98",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w13",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "equipment_cb_e114"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11344_1_1",
+    "Name": "Pistol, Submachine Gun, Pitcher, Cybermine, D-Charges & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w154"
+      },
+      {
+        "Id": "equipment_cb_w174"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11343_1_1",
+    "Name": "Heavy Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w29"
+      },
+      {
+        "Id": "equipment_cb_w44"
+      },
+      {
+        "Id": "equipment_cb_w8",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11343_1_2",
+    "Name": "MULTI Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w41"
+      },
+      {
+        "Id": "equipment_cb_w44"
+      },
+      {
+        "Id": "equipment_cb_w8",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10051_1_1",
+    "Name": "MULTI Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w41"
+      },
+      {
+        "Id": "equipment_cb_w220"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10051_1_2",
+    "Name": "Boarding Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w220"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10051_1_3",
+    "Name": "Combi Rifle & E/Mitter",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w25",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w220"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11275_1_1",
+    "Name": "Submachine Gun & Chain-colt",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w80"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11275_1_4",
+    "Name": "Light Shotgun & Shock Mine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w196"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_minelayer"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10462_1_1",
+    "Name": "Breaker Combi Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w103"
+      },
+      {
+        "Id": "equipment_cb_w46"
+      },
+      {
+        "Id": "equipment_cb_w47"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=5"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10462_1_2",
+    "Name": "Boarding Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w47"
+      },
+      {
+        "Id": "equipment_cb_w46"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w10",
+        "Info": "PS=5"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10265_1_1",
+    "Name": "Boarding Shotgun, Flash Pulse & Cybermine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w174"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100",
+        "Info": "UPGRADE: Zero Pain"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10265_1_2",
+    "Name": "Boarding Shotgun, Flash Pulse, Cybermine & Disco Baller",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w174"
+      },
+      {
+        "Id": "equipment_cb_w208"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100",
+        "Info": "UPGRADE: Zero Pain"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10265_1_5",
+    "Name": "Combi Rifle & Pitcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w154"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11569_1_2",
+    "Name": "AP Spitfire & Heavy Flamethrower",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w157"
+      },
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11569_1_3",
+    "Name": "AP Spitfire & Chain-colt",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w157"
+      },
+      {
+        "Id": "equipment_cb_w80",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11569_1_4",
+    "Name": "Heavy Shotgun & Thunderbolt",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w29"
+      },
+      {
+        "Id": "equipment_cb_w207",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11569_1_5",
+    "Name": "Heavy Shotgun, Heavy Rocket Launcher & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w29"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=4"
+      },
+      {
+        "Id": "equipment_cb_w89"
+      },
+      {
+        "Id": "equipment_cb_w68",
+        "Info": "+1B"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11569_2_1",
+    "Name": "TURTLEMEK",
+    "Type": 4,
+    "ItemsToAdd": []
+  },
+  {
+    "Id": "options_cb10300_1_1",
+    "Name": "AP Spitfire, Heavy Flamethrower & Thunderbolt",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w157"
+      },
+      {
+        "Id": "equipment_cb_w57",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w207",
+        "Info": "AP"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10300_1_2",
+    "Name": "Heavy Machine Gun, Light Shotgun & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w2"
+      },
+      {
+        "Id": "equipment_cb_w28",
+        "Info": "+2B"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10300_2_1",
+    "Name": "Spitfire, Smoke Grenade Launcher, Boarding Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w74"
+      },
+      {
+        "Id": "equipment_cb_w195"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11570_1_1",
+    "Name": "Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w199"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11570_1_2",
+    "Name": "Tactical Bow",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w193"
+      },
+      {
+        "Id": "equipment_cb_w199"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=5"
+      },
+      {
+        "Id": "rules_cb_surprise_attack",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_camouflage"
+      },
+      {
+        "Id": "rules_cb_forward_deployment",
+        "Info": "+20"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11570_1_3",
+    "Name": "Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w57"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w199"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=5"
+      },
+      {
+        "Id": "rules_cb_surprise_attack",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_camouflage"
+      },
+      {
+        "Id": "rules_cb_forward_deployment",
+        "Info": "+20"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10325_1_1",
+    "Name": "Contender",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w212",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "equipment_cb_w19",
+        "Info": "+1SD"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10325_1_2",
+    "Name": "T2 Boarding Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w27"
+      },
+      {
+        "Id": "equipment_cb_w212",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_1787554389268",
+        "Info": "AP"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10325_1_3",
+    "Name": "Rifle, Light Shotgun & E/M Mine",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w31"
+      },
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w197"
+      },
+      {
+        "Id": "equipment_cb_w212",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_1787558979759"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10325_1_5",
+    "Name": "Breaker Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w109"
+      },
+      {
+        "Id": "equipment_cb_w212",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_1787558979759"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10325_1_8",
+    "Name": "Submachine Gun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w212",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_1787558979759"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10378_1_2",
+    "Name": "Chain Rifle, Heavy Pistol & AP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w45"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10378_1_3",
+    "Name": "Chain Rifle, Pistol & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w45"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10378_1_4",
+    "Name": "Boarding Shotgun, Pistol & AP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w45"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10378_1_5",
+    "Name": "Rifle, Pistol & AP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w31"
+      },
+      {
+        "Id": "equipment_cb_w45"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10283_1_1",
+    "Name": "Chain Rifle, Grenades, Smoke Grenades & AP + DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w44",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w45"
+      },
+      {
+        "Id": "equipment_cb_w78",
+        "Info": "PS=3"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10491_1_1",
+    "Name": "Combi Rifle, Flash Pulse, Pistol, CC Weapon & Nanopulser",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10380_1_1",
+    "Name": "Mk12 & Heavy Rocket Launcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w64",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w89",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10380_1_2",
+    "Name": "AP Heavy Machine Gun & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w3"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10380_1_3",
+    "Name": "AP Spitfire & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w157",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10380_2_1",
+    "Name": "TURTLEMEK",
+    "Type": 4,
+    "ItemsToAdd": []
+  },
+  {
+    "Id": "options_cb10380_3_1",
+    "Name": "Combi Rifle, D-Charges, PARA Mine, Boarding Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w220"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10380_u1",
+    "Name": "SCARFACE Loadout Alpha & CORDELIA TURNER",
+    "Type": 1,
+    "ItemsToAdd": []
+  },
+  {
+    "Id": "options_cb10380_u2",
+    "Name": "SCARFACE Loadout Beta & CORDELIA TURNER",
+    "Type": 1,
+    "ItemsToAdd": []
+  },
+  {
+    "Id": "options_cb10380_u3",
+    "Name": "SCARFACE Loadout Gamma & CORDELIA TURNER",
+    "Type": 1,
+    "ItemsToAdd": []
+  },
+  {
+    "Id": "options_cb10122_1_1",
+    "Name": "Breaker Rifle & Nanopulser",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w109"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w189"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10122_1_2",
+    "Name": "Combi Rifle & Nanopulser",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w189"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10122_1_3",
+    "Name": "Boarding Shotgun & Adhesive Launcher Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w189"
+      },
+      {
+        "Id": "equipment_cb_w216",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10122_1_4",
+    "Name": "Rifle, Light Shotgun & Nanopulser",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w31"
+      },
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w189"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "rules_1787558979759"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10122_1_5",
+    "Name": "Breaker Combi Rifle & Nanopulser",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w103"
+      },
+      {
+        "Id": "equipment_cb_w65",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w189"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      },
+      {
+        "Id": "rules_1787558979759"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11501_1_1",
+    "Name": "Missile Launcher, Contender, Heavy Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w58"
+      },
+      {
+        "Id": "equipment_cb_w19"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10223_1_1",
+    "Name": "Chain Rifle, Tactical Bow, Flash Pulse, Pistol & EXP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w193"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w8",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10756_1_1",
+    "Name": "DA CC Weapon, Chain Rifle & Grenades",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w147"
+      },
+      {
+        "Id": "equipment_cb_w44"
+      },
+      {
+        "Id": "rules_1787554389268",
+        "Info": "+1B"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10756_1_2",
+    "Name": "Boarding Shotgun & AP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w147"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10756_1_4",
+    "Name": "Submachine Gun & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w147"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10756_1_5",
+    "Name": "Red Fury & AP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w152"
+      },
+      {
+        "Id": "equipment_cb_w147"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11500_1_1",
+    "Name": "Chain Rifle, Light Shotgun, Flash Pulse, Pistol & EXP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18"
+      },
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w72"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w8",
+        "Info": "PS=4"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11565_1_1",
+    "Name": "Boarding Shotgun, Pistol & Heavy Riotstopper",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      },
+      {
+        "Id": "equipment_cb_w188"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11565_1_2",
+    "Name": "Submachine Gun, Chain-colt & Pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w80",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11565_1_3",
+    "Name": "Red Fury & Breaker Pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w152"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10248_1_1",
+    "Name": "T2 Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w38"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=7"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10248_1_2",
+    "Name": "AP Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w35"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=7"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10248_1_3",
+    "Name": "T2 Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w38"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=7"
+      },
+      {
+        "Id": "rules_cb_forward_deployment",
+        "Info": "+10"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11568_1_1",
+    "Name": "Rifle & Light Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w31"
+      },
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w44"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11568_1_2",
+    "Name": "Chain Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w44"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11069_1_1",
+    "Name": "Boarding Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w212",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w96",
+        "Info": "+1SD"
+      },
+      {
+        "Id": "rules_cb_parachutist"
+      },
+      {
+        "Id": "rules_cb_combat_jump"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11069_1_3",
+    "Name": "MULTI Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w41"
+      },
+      {
+        "Id": "equipment_cb_w212",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w7",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w96",
+        "Info": "+1SD"
+      },
+      {
+        "Id": "rules_cb_regular"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10198_1_1",
+    "Name": "Viral Rifle, Adhesive Launcher Rifle, Nanopulser, Heavy Pistol & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w43"
+      },
+      {
+        "Id": "equipment_cb_w216"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-9"
+      },
+      {
+        "Id": "rules_cb_surprise_attack",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_forward_deployment",
+        "Info": "+10"
+      },
+      {
+        "Id": "equipment_cb_e104"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10198_1_2",
+    "Name": "Viral Rifle, Adhesive Launcher Rifle, Nanopulser, Heavy Pistol & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w43"
+      },
+      {
+        "Id": "equipment_cb_w216"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-9"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10198_1_3",
+    "Name": "Viral Rifle, Adhesive Launcher Rifle, Nanopulser, Heavy Pistol & PARA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w43"
+      },
+      {
+        "Id": "equipment_cb_w216"
+      },
+      {
+        "Id": "equipment_cb_w65"
+      },
+      {
+        "Id": "equipment_cb_w107"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-9"
+      },
+      {
+        "Id": "equipment_cb_e183",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10464_1_1",
+    "Name": "Combi Rifle, Zapper, Pitcher, Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w175"
+      },
+      {
+        "Id": "equipment_cb_w154"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10379_1_1",
+    "Name": "Combi Rifle & Chain-colt",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w80"
+      },
+      {
+        "Id": "equipment_cb_w156"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10379_1_2",
+    "Name": "Heavy Machine Gun & Chain-colt",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w2"
+      },
+      {
+        "Id": "equipment_cb_w156"
+      },
+      {
+        "Id": "equipment_cb_w80"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10379_1_3",
+    "Name": "Combi Rifle, Chain-colt & Panzerfaust",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w80"
+      },
+      {
+        "Id": "equipment_cb_w68"
+      },
+      {
+        "Id": "equipment_cb_w156"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10379_1_4",
+    "Name": "Combi Rifle, Chain-colt, Grenade Launcher & E/M Grenade Launcher",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w80"
+      },
+      {
+        "Id": "equipment_cb_w194"
+      },
+      {
+        "Id": "equipment_cb_w201"
+      },
+      {
+        "Id": "equipment_cb_w156"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10379_1_5",
+    "Name": "Shock Marksman Rifle & Chain-colt",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w155"
+      },
+      {
+        "Id": "equipment_cb_w80"
+      },
+      {
+        "Id": "equipment_cb_w156"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10379_1_6",
+    "Name": "Combi Rifle, Pitcher & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w154"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w156"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e100"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10379_1_7",
+    "Name": "Combi Rifle, Pitcher & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w154"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w156"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      },
+      {
+        "Id": "equipment_cb_e145"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11071_1_1",
+    "Name": "Pitcher, D-Charges, Assault Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w154"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w70"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_hacker"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11683_1_1",
+    "Name": "Plasma Rifle, D-Charges, Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w40"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11482_1_1",
+    "Name": "Contender",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w19"
+      },
+      {
+        "Id": "equipment_cb_w189",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11482_1_2",
+    "Name": "Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w31"
+      },
+      {
+        "Id": "equipment_cb_w189",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_1787554389268",
+        "Info": "Shock"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10338_1_1",
+    "Name": "Combi Rifle, Adhesive Launcher Rifle & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w216"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10338_1_2",
+    "Name": "Combi Rifle & Blitzen",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w14"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10338_1_3",
+    "Name": "MULTI Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w36"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10338_1_4",
+    "Name": "Heavy Rocket Launcher & Light Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w89"
+      },
+      {
+        "Id": "equipment_cb_w28"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10338_1_5",
+    "Name": "Spitfire",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w74"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10338_1_6",
+    "Name": "Combi Rifle, Adhesive Launcher Rifle & D-Charges",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w216"
+      },
+      {
+        "Id": "equipment_cb_w17"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_engineer"
+      },
+      {
+        "Id": "equipment_cb_e238"
+      },
+      {
+        "Id": "equipment_cb_e237"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10338_1_7",
+    "Name": "Combi Rifle & Blitzen",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w14"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_doctor"
+      },
+      {
+        "Id": "equipment_cb_e106"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10338_1_8",
+    "Name": "Combi Rifle & Blitzen",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w33"
+      },
+      {
+        "Id": "equipment_cb_w14"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_1787558979759"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10049_1_2",
+    "Name": "Boarding Shotgun, Pistol & Heavy Riotstopper",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      },
+      {
+        "Id": "equipment_cb_w188"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10049_1_3",
+    "Name": "Sniper Rifle & Breaker Pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w34"
+      },
+      {
+        "Id": "equipment_cb_w98",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10049_1_4",
+    "Name": "Spitfire & Boarding Pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w74"
+      },
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10049_1_5",
+    "Name": "Submachine Gun, Akrylat-Kanone & Breaker Pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w1"
+      },
+      {
+        "Id": "equipment_cb_w98"
+      },
+      {
+        "Id": "equipment_cb_w71",
+        "Info": "-6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11153_1_4264",
+    "Name": "Chain Rifle, Smoke Grenades, Smoke Grenade Launcher, AP Heavy Pistol & DA CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w18",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w45"
+      },
+      {
+        "Id": "equipment_cb_w195"
+      },
+      {
+        "Id": "equipment_cb_w100",
+        "Info": "+1B"
+      },
+      {
+        "Id": "equipment_cb_w11",
+        "Info": "PS=6"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb11153_2_1",
+    "Name": "Grenades, Trench-Hammer & AP CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w44",
+        "Info": "PS=6"
+      },
+      {
+        "Id": "equipment_cb_w177",
+        "Info": "PS=5"
+      },
+      {
+        "Id": "equipment_cb_w6",
+        "Info": "PS=5"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10939_1_1",
+    "Name": "MULTI Sniper Rifle, AP Heavy Pistol & CC Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w36"
+      },
+      {
+        "Id": "equipment_cb_w100"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "rules_cb_surprise_attack",
+        "Info": "-3"
+      },
+      {
+        "Id": "rules_cb_decoy",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10956_1_1",
+    "Name": "Boarding Shotgun",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      },
+      {
+        "Id": "equipment_cb_w26"
+      },
+      {
+        "Id": "rules_cb_paramedic"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10956_1_2",
+    "Name": "Submachine Gun & E/Mitter",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w77"
+      },
+      {
+        "Id": "equipment_cb_w25"
+      },
+      {
+        "Id": "equipment_cb_w69"
+      },
+      {
+        "Id": "equipment_cb_w9"
+      },
+      {
+        "Id": "rules_cb_paramedic"
+      }
+    ]
+  },
+  {
+    "Id": "options_cb10947_1_1",
+    "Name": "Boarding Pistol, CC Weapon & VIRAL Sniper Rifle",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_cb_w212"
+      },
+      {
+        "Id": "equipment_cb_w5"
+      },
+      {
+        "Id": "equipment_cb_w39",
+        "Info": "+1SD"
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "Id": "statlines_1787554708750",
+    "Name": "Joan of Arc",
+    "Type": "Statline",
+    "Attributes": {
+      "MOV": "4-4",
+      "CC": "23",
+      "BS": "15",
+      "PH": "15",
+      "WIP": "15",
+      "ARM": "5",
+      "BTS": "6",
+      "VITA": "2",
+      "S": "2",
+      "AVA": "1"
+    }
+  },
+  {
+    "Id": "statlines_1787562966722",
+    "Name": "Operator Maximus",
+    "Type": "Statline",
+    "Attributes": {
+      "MOV": "6-2",
+      "CC": "22",
+      "BS": "13",
+      "PH": "13",
+      "WIP": "13",
+      "ARM": "3",
+      "BTS": "3",
+      "VITA": "4",
+      "S": "2",
+      "AVA": "-"
+    }
+  },
+  {
+    "Id": "statlines_1787563509038",
+    "Name": "Drummer",
+    "Type": "Statline",
+    "Attributes": {
+      "MOV": "4-4",
+      "CC": "14",
+      "BS": "13",
+      "PH": "10",
+      "WIP": "12",
+      "ARM": "1",
+      "BTS": "3",
+      "VITA": "1",
+      "S": "2",
+      "AVA": "2"
+    }
+  },
+  {
+    "Id": "statlines_1787563525652",
+    "Name": "Drumbot",
+    "Type": "Statline",
+    "Attributes": {
+      "MOV": "6-4",
+      "CC": "13",
+      "BS": "13",
+      "PH": "9",
+      "WIP": "11",
+      "ARM": "1",
+      "BTS": "3",
+      "VITA": "1",
+      "S": "2",
+      "AVA": "-"
+    }
+  },
+  {
+    "Id": "statlines_1789475877920",
+    "Name": "Sierra Dronbot",
+    "Type": "Statline",
+    "Attributes": {
+      "MOV": "6-4",
+      "CC": "13",
+      "BS": "11",
+      "PH": "10",
+      "WIP": "13",
+      "ARM": "0",
+      "BTS": "3",
+      "VITA": "1",
+      "S": "3",
+      "AVA": "2"
+    }
+  }
+]

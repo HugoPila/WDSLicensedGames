@@ -1,0 +1,43 @@
+[
+  {
+    "Id": "units_1787554893977",
+    "Name": "Joan of Arc",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1787554782446"
+    ]
+  },
+  {
+    "Id": "units_1787563472780",
+    "Name": "Operator Maximus",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1787562995845"
+    ]
+  },
+  {
+    "Id": "units_1787563659006",
+    "Name": "Drummers",
+    "Type": "Unit",
+    "DefaultFront": 2,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1787563545998",
+      "profiles_1787563576918"
+    ]
+  },
+  {
+    "Id": "units_1789476044093",
+    "Name": "'Sierra\" Dronbots",
+    "Type": "Unit",
+    "DefaultFront": 1,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1789475915768"
+    ]
+  }
+]

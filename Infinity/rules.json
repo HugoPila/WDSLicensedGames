@@ -1,0 +1,788 @@
+[
+  {
+    "Id": "rules_1787554389268",
+    "Name": "BS Attack",
+    "Type": "Rule",
+    "Description": "The user employs his BS Attribute (or Attribute specified by the weapon) to fire upon one or more enemies.\nWhen declaring a BS Attack, the user must choose which of his BS Weapons, Special Skills or pieces of Equipment to use, from those available in his Unit Profile.\nIf the attacker has more than one target and a BS Weapon, Special Skill or piece of Equipment with a Burst value higher than 1, they must distribute their attacks as part of the BS Attack declaration.\nAll shots must be declared from the same point.\nIf the chosen weapon has more than one Type of Ammunition available, you must choose one for the entire Burst, as part of the BS Attack declaration."
+  },
+  {
+    "Id": "rules_1787554437569",
+    "Name": "Frenzy",
+    "Type": "Rule",
+    "Description": "In the States Phase of the Player Turn where the Requirements have been met, the Trooper gains the following Special Skills and retains them for the remainder of the game:\nImpetuous\nLimited Cover\nWhen Frenzy Troopers gain the Impetuous Special Skill, they cancel any Marker State they are in (Camouflaged, Impersonation...), and any other States that say so. These Troopers cannot re-enter those States."
+  },
+  {
+    "Id": "rules_1787554467626",
+    "Name": "Martial Arts",
+    "Type": "Rule",
+    "Description": "Each Level of Martial Arts gives a series of specific MODs and advantages in CC, as shown in the Martial Arts Chart.\nThe Trooper's Unit Profile will list which Level of Martial Arts the Trooper has. They may only use the Level listed in their Unit Profile."
+  },
+  {
+    "Id": "rules_1787554549886",
+    "Name": "Stealth",
+    "Type": "Rule",
+    "Description": "The user can declare Cautious Movement inside the Zone of Control and Hacking Areas of enemy Models and Markers.\nIf the user declares Cautious Movement, Idle, or a Basic Short Skill with the Movement Label, they only grant AROs to enemies that have LoF to them.\nIf any other Skill is declared, AROs are granted normally.\nIf the user enters Silhouette contact with an enemy without entering their LoF, and declares any of those other Skills, that enemy can only declare CC Attack, Dodge, Reset, or those Skills that can be used in Engaged State."
+  },
+  {
+    "Id": "rules_1787554482402",
+    "Name": "No Wound Incapacitation",
+    "Type": "Rule",
+    "Description": "The Unconscious State of Troopers using the No Wound Incapacitation Special Skill has the following special rules:\nInstead of placing an Unconscious Token next to the Trooper, place an NWI Token.\nTo activate No Wound Incapacitation, the player must announce its use when the Trooper enters Unconscious State.\nAllows the Trooper to ignore the effects and Null Label of Unconscious State, treating it as Normal State instead.\nIf the Trooper receives another Wound, they enter Dead State directly and are removed from the game table.\nThis Special Skill does not interfere with Automatic Special Skills or Automatic Equipment, which will continue to function normally.\nThe user of the No Wound Incapacitation Special Skill can be healed (using Special Skills or Equipment such as Doctor, MediKit, Regeneration, Protheion...), removing one Wound, going back to Normal State, and removing the NWI Token.\nIf the Roll to heal the user of the No Wound Incapacitation Special Skill fails, the Trooper automatically enters Dead State and is removed from the game table."
+  },
+  {
+    "Id": "rules_1787558892698",
+    "Name": "Remote Presence",
+    "Type": "Rule",
+    "Description": "Troopers with Remote Presence and the STR Attribute have two distinct levels of Unconscious State.\nWhen the Trooper receives as many Wounds as their STR Attribute value, they enter Unconscious State like any other Trooper. However, if the Trooper receives one Wound more than its STR value, they do not enter Dead State as usual, but instead enter a second level of Unconscious State, signified by a second Unconscious Token (UNCONSCIOUS). Only if they receive one more Wound do they enter Dead State and be removed from the table. This means that a Remote Presence Trooper only enters Dead State if it has two or more Wounds more than its STR Attribute value.\nRegardless of which level of Unconscious State the Trooper is in, with a single successful WIP Roll with the Engineer Special Skill, or successful PH Roll with a GizmoKit, they may remove all the Wounds necessary to cancel their Unconscious State.\nAdditionally, when using Engineer (or other Special Skills or piece of Equipment that specifically say so) to repair a Trooper with Remote Presence, you may expend Command Tokens to reroll a failed WIP Roll.\nThis Special Skill remains active even when its owner is in a Null State."
+  },
+  {
+    "Id": "rules_1787558958417",
+    "Name": "Peripheral",
+    "Type": "Rule",
+    "Description": "When creating an Army List or determining how many Troopers each Combat Group can contain, a Controller and all its Peripherals are counted as a single Trooper.\nPeripherals are deployed on the game table at the same time as their Controller, unless a rule for that type of Peripheral says otherwise.\nIf the Controller has a Deployment Skill that allows them to deploy after the Deployment Phase, but their Peripherals do not, these Peripherals are deployed during the Deployment Phase and remain in Disconnected State until their Controller is deployed on the game table and moves within the operating distance for that type of Peripheral.\nPeripherals are always activated with the same Order as their Controller, executing the same Short Skills of the Order, or Long Skill, although they are not required to have the same target.\nIf any of the game elements (Controller or Peripheral) does not meet the Requirements of a Skill of the Order declared by the Controller and Peripherals, then they perform an Idle instead of such Skill, while the other may act normally.\nEach reactive Trooper must choose only one of the Troopers (be it the Controller or one of their Peripherals) activated by the Order as their target, but they are not obliged to choose the same target.\nDuring the Reactive Turn, both the Controller and the Peripherals gain their own separate AROs. However, unless a specific rule says otherwise, any declared AROs must be the same for both the Controller and the Peripherals.\nIn Close Combat, the rules described in Close Combat with Multiple Troopers must be applied.\nIf the Controller enters any Null State or Isolated State, the Peripheral will enter Disconnected State at the end of that Order.\nIf the Peripheral enters Isolated State, it will also enter Disconnected State at the end of that Order.\nPeripherals with a point cost in their profile count towards Victory Points, Zone of Operations control, etc. Remember that the total cost of the Unit includes Peripherals and, therefore, the value of the Peripherals must be deducted to determine the itemized points of the Units.\nIf the Controller has or gains—due any scenario condition or Skill—the Impetuous Special Skill, the Controller's Peripherals are also affected.\nRestriction: Peripherals and their Controller cannot be part of a Coordinated Order nor be a member of any type of Fireteam.\nA Controller and their Peripherals always belong to the same Combat Group. If the player moves the Controller into a different Combat Group, all their Peripherals are moved as well.\nIf the player activates a Hacking Program that grants a MOD or State to the Controller (e.g. Cybermask), that MOD or State will also be applied to their Peripherals.\nThe Peripheral Special Skill remains active even when its owner is in a Null State.\nThere are different types of Peripherals, each with their own features:"
+  },
+  {
+    "Id": "rules_1787558979759",
+    "Name": "Specialist Operative",
+    "Type": "Rule",
+    "Description": "Playing a mission or a scenario, the user of this Special Skill is considered to be a Specialist Troop and may use the special rules the mission or scenario specifies for this type of Trooper.\nThe user of this Special Skill will be considered to be a Specialist Troop, even if he doesn't fulfill any of the defining characteristics of this type of Trooper (not being an Engineer, Doctor, Hacker, etc.) in the scenario rules."
+  },
+  {
+    "Id": "rules_1787563022660",
+    "Name": "CC Attack",
+    "Type": "Rule",
+    "Description": "Allows use of the CC Attribute to fight in Close Combat (CC).\nBy declaring a CC Attack, Troopers may only use those Weapons with the CC Trait.\nIf a Trooper has several targets and a Burst value that is higher than 1, the player must clarify how they are dividing the Burst when declaring the CC Attack.\nIn the Resolution step, check which MODs to apply, and make the CC Attack Rolls using the corresponding Attribute.\nFor each success obtained in CC Attack Rolls, the target must perform a Saving Roll (see Possibility of Survival (PS)).\nCoup de Grâce\nCoup de Grâce: When declaring the CC Attack, if the Enemy Target is in Unconscious State (including if it is represented by a Shasvastii-Embryo Token), then, without needing to perform a roll, the target automatically goes from Unconscious to Dead State without the possibility of making a Saving Roll.\nCoup de Grâce cannot be used against a Trooper who has activated the Dogged or No Wound Incapacitation Special Skill. Therefore, the CC Attack is resolved normally."
+  },
+  {
+    "Id": "rules_1787555567164",
+    "Name": "Courage",
+    "Type": "Rule",
+    "Description": "Courage allows its user to choose to automatically pass any Guts Rolls.\nTroopers with the Courage Special Skill are unaffected by Retreat! situations, so they cannot enter Retreat! State and act normally until the end of the game.\nHowever, even in a Retreat! situation, Troops possessing Courage are affected by Loss of Lieutenant."
+  },
+  {
+    "Id": "rules_1787555579258",
+    "Name": "Dodge",
+    "Type": "Rule",
+    "Description": "Allows the user to make a Face to Face Roll to evade all enemy Attacks during an Order or ARO, regardless of the Burst (B) value (for example, Dodging every strike in Close Combat, or shots from several opponents).\nThis Face to Face Roll pits the user's PH Attribute against whichever Attribute the attacker uses (BS, CC, PH or WIP).\nIf the user is not making a Face to Face Roll (for example if they have not been Attacked or have been affected by a Direct Template Weapon), they will instead make a Normal PH Roll.\nDodge does not allow the user to evade Comms Attacks, but the Reset Common Skill does.\nA successful Normal or Face to Face Dodge Roll allows the user to move up to 2 inches. This movement:\nIs measured, declared, and the Trooper moves, during the Effects step of the Order Expenditure Sequence. If both players have Troopers that successfully Dodged, the Active Player will move their Troopers first, then the Reactive Player will move theirs.\nDoes not generate AROs or trigger Deployable Weapons or Equipment.\nDodge follows the General Movement Rules as well as the Moving and Measuring sidebar, both of which are explained in the Movement Module.\nDodge allows the user to enter Engaged State with an enemy, as long as the movement is enough to reach Silhouette contact with that enemy.\nA successful Dodge Roll, whether it is a Normal or Face to Face, allows the user to cancel their Engaged State and IMM-A State, applying any State-specific"
+  },
+  {
+    "Id": "rules_1787563316262",
+    "Name": "Immunity",
+    "Type": "Rule",
+    "Description": "Immunity (Trait): The Trooper ignores the special effects of the listed Trait.\nImmunity (Ammunition): The Ammunition listed between brackets is treated as Normal (N) Ammunition. Its special effects, and any MODs to the Attribute and number of the Saving Rolls are ignored.\nImmunity (ARM): Any Ammunition that requires a Saving Roll using the ARM Attribute is treated as Normal (N) Ammunition. Its special effects, and any MODs to the Attribute and number of the Saving Rolls are ignored.\nIf the Weapon, Skill, or piece of Equipment used in the Attack has Traits, the Trooper is completely immune to any of those Traits that cause States, refer to inflicting Wounds, or reduce the Attributes of the target. For example, State: Dead, Continuous Damage, or ARM=0.\nImmunity (BTS): Any Ammunition that requires a Saving Roll using the BTS Attribute is treated as Normal (N) Ammunition. Its special effects, and any MODs to the Attribute and number of the Saving Rolls are ignored.\nIf the Weapon, Skill, or piece of Equipment used in the Attack has Traits, the Trooper is completely immune to any of those Traits that cause States, refer to inflicting Wounds, or reduce the Attributes of the target. For example, State: Dead, Continuous Damage, or BTS=0.\nImmunity (Enhanced): A Trooper with this Special Skill has both Immunity (ARM) and Immunity (BTS).\nImmunity (State): the Trooper is completely immune to any Comms Attack effect or special rule effect that causes the listed State, for example Possessed (POS). The Trooper cannot enter that State.\nImmunity (Critical): The Trooper will not make the additional Saving Roll caused by Critical hits."
+  },
+  {
+    "Id": "rules_1787563341072",
+    "Name": "Natural Born Warrior",
+    "Type": "Rule",
+    "Description": "In the CC Face to Face Roll, the user ignores all negative MODs imposed by the opposing Trooper."
+  },
+  {
+    "Id": "rules_1787554565725",
+    "Name": "Tactical Awareness",
+    "Type": "Rule",
+    "Description": "This Special Skill grants its user a Tactical Order in addition to the one provided by their Training Characteristic (Regular or Irregular).\nDuring the Order Count step, if the user is on the game table as a Model or Marker, the player places a Tactical Order beside the user.\nIf the Trooper is placed on the game table during the Orders Phase, a Tactical Order must be placed next to the Trooper who has this Special Skill.\nIf the Trooper with this Special Skill is a member of a Fireteam and is designated as the Team Leader, this Order can be used to activate the Fireteam."
+  },
+  {
+    "Id": "rules_1787555614047",
+    "Name": "Mimetism",
+    "Type": "Rule",
+    "Description": "Any enemy declaring a BS Attack that requires LoF, or Discover, against the user of this Skill must apply a negative MOD to their Attribute, as shown in round brackets in the Unit Profile: Mimetism (-3), Mimetism (-6)...\nThe Mimetism MOD does not apply to CC Attacks."
+  },
+  {
+    "Id": "rules_1789475958474",
+    "Name": "Total Reaction",
+    "Type": "Rule",
+    "Description": "When performing a BS Attack ARO, the user may use the full Burst (B) of their weapon, including any Burst MODs.\nAROs must choose one of the Troopers activated by the Order as their target."
+  },
+  {
+    "Id": "rules_cb_repeater",
+    "Name": "Repeater",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_multispectral_visor_l1",
+    "Name": "Multispectral Visor L1",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_warhorse",
+    "Name": "Warhorse",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_religious_troop",
+    "Name": "Religious Troop",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_triangulated_fire",
+    "Name": "Triangulated Fire",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_forward_observer",
+    "Name": "Forward Observer",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_deactivator",
+    "Name": "Deactivator",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_360_visor",
+    "Name": "360º Visor",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_martial_arts_l3",
+    "Name": "Martial Arts L3",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_super_jump",
+    "Name": "Super-Jump",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_climbing_plus",
+    "Name": "Climbing Plus",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_terrain",
+    "Name": "Terrain",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_engineer",
+    "Name": "Engineer",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_gizmokit",
+    "Name": "GizmoKit",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_martial_arts_l2",
+    "Name": "Martial Arts L2",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_nco",
+    "Name": "NCO",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_berserk",
+    "Name": "Berserk",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_hacker",
+    "Name": "Hacker",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_surprise_attack",
+    "Name": "Surprise Attack",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_camouflage",
+    "Name": "Camouflage",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_hidden_deployment",
+    "Name": "Hidden Deployment",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_infiltration",
+    "Name": "Infiltration",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_albedo",
+    "Name": "Albedo",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_forward_deployment",
+    "Name": "Forward Deployment",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_tagcom",
+    "Name": "TAGCom",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_aerial",
+    "Name": "Aerial",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_no_cover",
+    "Name": "No Cover",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_tech_recovery",
+    "Name": "Tech-recovery",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_sensor",
+    "Name": "Sensor",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_counterintelligence",
+    "Name": "Counterintelligence",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_ft_master",
+    "Name": "FT Master",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_biometric_visor",
+    "Name": "Biometric Visor",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_combat_instinct",
+    "Name": "Combat Instinct",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_number_2",
+    "Name": "Number 2",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_multispectral_visor_l2",
+    "Name": "Multispectral Visor L2",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_dogged",
+    "Name": "Dogged",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_x_visor",
+    "Name": "X Visor",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_doctor",
+    "Name": "Doctor",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_medikit",
+    "Name": "MediKit",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_baggage",
+    "Name": "Baggage",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_ecm_guided",
+    "Name": "ECM: Guided",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_marksmanship",
+    "Name": "Marksmanship",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_jump",
+    "Name": "Jump",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_infinity_team_ops",
+    "Name": "Infinity Team-Ops",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_parachutist",
+    "Name": "Parachutist",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_combat_jump",
+    "Name": "Combat Jump",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_booty",
+    "Name": "Booty",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_nanoscreen",
+    "Name": "Nanoscreen",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_journalist",
+    "Name": "Journalist",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_transmutation",
+    "Name": "Transmutation",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_decoy",
+    "Name": "Decoy",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_infinity_spec_ops",
+    "Name": "Infinity Spec-Ops",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_technorganic",
+    "Name": "Technorganic",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_martial_arts_l4",
+    "Name": "Martial Arts L4",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_martial_arts_l1",
+    "Name": "Martial Arts L1",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_explode",
+    "Name": "Explode",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_minelayer",
+    "Name": "Minelayer",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_hacking_device_plus",
+    "Name": "Hacking Device Plus",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_regeneration",
+    "Name": "Regeneration",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_sixth_sense",
+    "Name": "Sixth Sense",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_holomask",
+    "Name": "Holomask",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_holoprojector",
+    "Name": "Holoprojector",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_impetuous",
+    "Name": "Impetuous",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_ecm_hacker",
+    "Name": "ECM: Hacker",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_metachemistry",
+    "Name": "MetaChemistry",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_shasvastii",
+    "Name": "Shasvastii",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_martial_arts_l5",
+    "Name": "Martial Arts L5",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_limited_cover",
+    "Name": "Limited Cover",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_motorcycle",
+    "Name": "Motorcycle",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_bangbomb",
+    "Name": "Bangbomb",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_hacking_device",
+    "Name": "Hacking Device",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_exrah",
+    "Name": "Exrah",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_multispectral_visor_l3",
+    "Name": "Multispectral Visor L3",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_suppressive_fire",
+    "Name": "Suppressive Fire",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_cc",
+    "Name": "CC",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_non_lethal",
+    "Name": "Non-lethal",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_state_imm_a",
+    "Name": "State: IMM-A",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_intuitive_attack",
+    "Name": "Intuitive Attack",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_direct_template_small_teardrop",
+    "Name": "Direct Template (Small Teardrop)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_anti_materiel",
+    "Name": "Anti-materiel",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_disposable_2",
+    "Name": "Disposable (2)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_disposable_3",
+    "Name": "Disposable (3)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_improvised",
+    "Name": "Improvised",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_direct_template_large_teardrop",
+    "Name": "Direct Template (Large Teardrop)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_continous_damage",
+    "Name": "Continous Damage",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_paramedic",
+    "Name": "Paramedic",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_bs_weapon_wip",
+    "Name": "BS Weapon (WIP)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_state_stunned",
+    "Name": "State: Stunned",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_speculative_attack",
+    "Name": "Speculative Attack",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_bs_weapon_ph",
+    "Name": "BS Weapon (PH)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_impact_template_circular",
+    "Name": "Impact Template (Circular)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_reflective",
+    "Name": "Reflective",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_targetless",
+    "Name": "Targetless",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_concealed",
+    "Name": "Concealed",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_deployable",
+    "Name": "Deployable",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_comms_attack",
+    "Name": "Comms. Attack",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_state_stunned_immbolized_b",
+    "Name": "State: Stunned / Immbolized-B",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_silent_6",
+    "Name": "Silent (-6)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_commlink",
+    "Name": "Commlink",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_double_shot",
+    "Name": "Double Shot",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_lieutenant",
+    "Name": "Lieutenant",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_chain_of_command",
+    "Name": "Chain of Command",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_disposable_1",
+    "Name": "Disposable (1)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_perimeter",
+    "Name": "Perimeter",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_strategos_l1",
+    "Name": "Strategos L1",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_neurocinetics",
+    "Name": "Neurocinetics",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_bioweapon_da_shock",
+    "Name": "Bioweapon (DA+SHOCK)",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_boost",
+    "Name": "Boost",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_throwing_weapon",
+    "Name": "Throwing Weapon",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_strategic_deployment",
+    "Name": "Strategic Deployment",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_indiscriminate",
+    "Name": "Indiscriminate",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_state_dead",
+    "Name": "State: Dead",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_regular",
+    "Name": "Regular",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_cc_21",
+    "Name": "CC=21",
+    "Type": "Rule",
+    "Description": ""
+  },
+  {
+    "Id": "rules_cb_remdriver",
+    "Name": "RemDriver",
+    "Type": "Rule",
+    "Description": ""
+  }
+]

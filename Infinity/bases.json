@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "bases_1787555315976",
+    "Name": "25",
+    "Shape": 1,
+    "Width": 25,
+    "Length": 25
+  },
+  {
+    "Id": "bases_1787555322166",
+    "Name": "40",
+    "Shape": 1,
+    "Width": 40,
+    "Length": 40
+  },
+  {
+    "Id": "bases_1787559214941",
+    "Name": "55",
+    "Shape": 1,
+    "Width": 55,
+    "Length": 55
+  },
+  {
+    "Id": "bases_cb_70",
+    "Name": "70",
+    "Shape": 1,
+    "Width": 70,
+    "Length": 70
+  },
+  {
+    "Id": "bases_cb_80",
+    "Name": "80",
+    "Shape": 1,
+    "Width": 80,
+    "Length": 80
+  }
+]

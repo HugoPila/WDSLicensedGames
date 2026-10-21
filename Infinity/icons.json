@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "47cc3f0c-32f2-5d60-93b8-fe1fc4b6d483",
+    "Name": "Jsa-reinforcement",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://assets.corvusbelli.net/army/img/logo/factions/jsa.svg"
+  },
+  {
+    "Id": "c878c701-4ac2-560d-9751-323423106903",
+    "Name": "Kestrel",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://assets.corvusbelli.net/army/img/logo/factions/kestrel-colonial-force.svg"
+  },
+  {
+    "Id": "1ad3703c-198c-5619-974e-10ad0ce6a48e",
+    "Name": "Pano-reinforcement",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://assets.corvusbelli.net/army/img/logo/factions/panoceania.svg"
+  },
+  {
+    "Id": "17e21e03-2cc1-5b27-a517-6c422ba0536a",
+    "Name": "Shindenbutai",
+    "Type": "faction",
+    "MatchingRuleName": "",
+    "URL": "https://assets.corvusbelli.net/army/img/logo/factions/shindenbutai.svg"
+  }
+]
