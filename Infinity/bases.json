@@ -33,5 +33,61 @@
     "Shape": 1,
     "Width": 80,
     "Length": 80
+  },
+  {
+    "Id": "bases_cb_s1",
+    "Name": "S1",
+    "Shape": 1,
+    "Width": 25,
+    "Length": 25
+  },
+  {
+    "Id": "bases_cb_s2",
+    "Name": "S2",
+    "Shape": 1,
+    "Width": 25,
+    "Length": 25
+  },
+  {
+    "Id": "bases_cb_s3",
+    "Name": "S3",
+    "Shape": 1,
+    "Width": 40,
+    "Length": 40
+  },
+  {
+    "Id": "bases_cb_s4",
+    "Name": "S4",
+    "Shape": 1,
+    "Width": 55,
+    "Length": 55
+  },
+  {
+    "Id": "bases_cb_s5",
+    "Name": "S5",
+    "Shape": 1,
+    "Width": 40,
+    "Length": 40
+  },
+  {
+    "Id": "bases_cb_s6",
+    "Name": "S6",
+    "Shape": 1,
+    "Width": 40,
+    "Length": 40
+  },
+  {
+    "Id": "bases_cb_s7",
+    "Name": "S7",
+    "Shape": 1,
+    "Width": 55,
+    "Length": 55
+  },
+  {
+    "Id": "bases_cb_s8",
+    "Name": "S8",
+    "Shape": 1,
+    "Width": 70,
+    "Length": 70
   }
 ]

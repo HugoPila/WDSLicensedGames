@@ -1,0 +1,578 @@
+[
+  {
+    "Id": "profiles_gp_s1_camo1",
+    "Name": "S1 Camouflage 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s1",
+    "Children": [
+      {
+        "Id": "statlines_gp_s1",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s1_camo2",
+    "Name": "S1 Camouflage 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s1",
+    "Children": [
+      {
+        "Id": "statlines_gp_s1",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s1_camo3",
+    "Name": "S1 Camouflage 3",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s1",
+    "Children": [
+      {
+        "Id": "statlines_gp_s1",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s1_imp1",
+    "Name": "S1 Imp 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s1",
+    "Children": [
+      {
+        "Id": "statlines_gp_s1",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s1_imp2",
+    "Name": "S1 Imp 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s1",
+    "Children": [
+      {
+        "Id": "statlines_gp_s1",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s2_camo1",
+    "Name": "S2 Camouflage 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s2",
+    "Children": [
+      {
+        "Id": "statlines_gp_s2",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s2_camo2",
+    "Name": "S2 Camouflage 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s2",
+    "Children": [
+      {
+        "Id": "statlines_gp_s2",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s2_camo3",
+    "Name": "S2 Camouflage 3",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s2",
+    "Children": [
+      {
+        "Id": "statlines_gp_s2",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s2_imp1",
+    "Name": "S2 Imp 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s2",
+    "Children": [
+      {
+        "Id": "statlines_gp_s2",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s2_imp2",
+    "Name": "S2 Imp 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s2",
+    "Children": [
+      {
+        "Id": "statlines_gp_s2",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s3_camo1",
+    "Name": "S3 Camouflage 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s3",
+    "Children": [
+      {
+        "Id": "statlines_gp_s3",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s3_camo2",
+    "Name": "S3 Camouflage 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s3",
+    "Children": [
+      {
+        "Id": "statlines_gp_s3",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s3_camo3",
+    "Name": "S3 Camouflage 3",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s3",
+    "Children": [
+      {
+        "Id": "statlines_gp_s3",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s3_imp1",
+    "Name": "S3 Imp 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s3",
+    "Children": [
+      {
+        "Id": "statlines_gp_s3",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s3_imp2",
+    "Name": "S3 Imp 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s3",
+    "Children": [
+      {
+        "Id": "statlines_gp_s3",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s4_camo1",
+    "Name": "S4 Camouflage 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s4",
+    "Children": [
+      {
+        "Id": "statlines_gp_s4",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s4_camo2",
+    "Name": "S4 Camouflage 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s4",
+    "Children": [
+      {
+        "Id": "statlines_gp_s4",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s4_camo3",
+    "Name": "S4 Camouflage 3",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s4",
+    "Children": [
+      {
+        "Id": "statlines_gp_s4",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s4_imp1",
+    "Name": "S4 Imp 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s4",
+    "Children": [
+      {
+        "Id": "statlines_gp_s4",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s4_imp2",
+    "Name": "S4 Imp 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s4",
+    "Children": [
+      {
+        "Id": "statlines_gp_s4",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s5_camo1",
+    "Name": "S5 Camouflage 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s5",
+    "Children": [
+      {
+        "Id": "statlines_gp_s5",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s5_camo2",
+    "Name": "S5 Camouflage 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s5",
+    "Children": [
+      {
+        "Id": "statlines_gp_s5",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s5_camo3",
+    "Name": "S5 Camouflage 3",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s5",
+    "Children": [
+      {
+        "Id": "statlines_gp_s5",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s5_imp1",
+    "Name": "S5 Imp 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s5",
+    "Children": [
+      {
+        "Id": "statlines_gp_s5",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s5_imp2",
+    "Name": "S5 Imp 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s5",
+    "Children": [
+      {
+        "Id": "statlines_gp_s5",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s6_camo1",
+    "Name": "S6 Camouflage 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s6",
+    "Children": [
+      {
+        "Id": "statlines_gp_s6",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s6_camo2",
+    "Name": "S6 Camouflage 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s6",
+    "Children": [
+      {
+        "Id": "statlines_gp_s6",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s6_camo3",
+    "Name": "S6 Camouflage 3",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s6",
+    "Children": [
+      {
+        "Id": "statlines_gp_s6",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s6_imp1",
+    "Name": "S6 Imp 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s6",
+    "Children": [
+      {
+        "Id": "statlines_gp_s6",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s6_imp2",
+    "Name": "S6 Imp 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s6",
+    "Children": [
+      {
+        "Id": "statlines_gp_s6",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s7_camo1",
+    "Name": "S7 Camouflage 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s7",
+    "Children": [
+      {
+        "Id": "statlines_gp_s7",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s7_camo2",
+    "Name": "S7 Camouflage 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s7",
+    "Children": [
+      {
+        "Id": "statlines_gp_s7",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s7_camo3",
+    "Name": "S7 Camouflage 3",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s7",
+    "Children": [
+      {
+        "Id": "statlines_gp_s7",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s7_imp1",
+    "Name": "S7 Imp 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s7",
+    "Children": [
+      {
+        "Id": "statlines_gp_s7",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s7_imp2",
+    "Name": "S7 Imp 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s7",
+    "Children": [
+      {
+        "Id": "statlines_gp_s7",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s8_camo1",
+    "Name": "S8 Camouflage 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s8",
+    "Children": [
+      {
+        "Id": "statlines_gp_s8",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s8_camo2",
+    "Name": "S8 Camouflage 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s8",
+    "Children": [
+      {
+        "Id": "statlines_gp_s8",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s8_camo3",
+    "Name": "S8 Camouflage 3",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s8",
+    "Children": [
+      {
+        "Id": "statlines_gp_s8",
+        "Info": ""
+      },
+      {
+        "Id": "rules_cb_camouflage",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s8_imp1",
+    "Name": "S8 Imp 1",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s8",
+    "Children": [
+      {
+        "Id": "statlines_gp_s8",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_gp_s8_imp2",
+    "Name": "S8 Imp 2",
+    "Type": "Profile",
+    "BaseId": "bases_cb_s8",
+    "Children": [
+      {
+        "Id": "statlines_gp_s8",
+        "Info": ""
+      }
+    ]
+  }
+]

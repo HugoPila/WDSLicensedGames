@@ -6354,5 +6354,17 @@
         "Info": "+1SD"
       }
     ]
+  },
+  {
+    "Id": "options_cb33_mut_camo1",
+    "Name": "Camouflage 1",
+    "Type": 3,
+    "ItemsToAdd": []
+  },
+  {
+    "Id": "options_cb33_mut_camo2",
+    "Name": "Camouflage 2",
+    "Type": 3,
+    "ItemsToAdd": []
   }
 ]

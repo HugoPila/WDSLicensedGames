@@ -12,6 +12,8 @@
       "Type": "Cloud"
     }
   ],
+  "AllowUnitMutations": true,
+  "AllowSecretLists": true,
   "DefaultFormation": "Cloud",
   "FormationChangingRules": [],
   "MaxCloudSeparation": 2,
