@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "files": [
     "hierarchy.json",
     "bases.json",
@@ -17,6 +17,8 @@
     "cardstacks.json",
     "equipment.json",
     "rules.json",
+    "profiles.json",
+    "statlines.json",
     "Pano-reinforcement/units.json",
     "Pano-reinforcement/profiles.json",
     "Pano-reinforcement/rules.json",
