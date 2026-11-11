@@ -12,6 +12,7 @@
       "Type": "Cloud"
     }
   ],
+  "cm": true,
   "AllowUnitMutations": true,
   "AllowSecretLists": true,
   "DefaultFormation": "Cloud",
