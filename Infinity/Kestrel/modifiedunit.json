@@ -49,6 +49,18 @@
     "UnitId": "units_cb1803",
     "OptionId": "options_1794375284374",
     "NewUnitId": "",
+    "NewProfileId": "profiles_gp_s2_camo1"
+  },
+  {
+    "UnitId": "units_cb1803",
+    "OptionId": "options_1794377876392",
+    "NewUnitId": "",
     "NewProfileId": "profiles_gp_s2_camo2"
+  },
+  {
+    "UnitId": "units_cb1803",
+    "OptionId": "options_1794377889746",
+    "NewUnitId": "",
+    "NewProfileId": "profiles_gp_s2_camo3"
   }
 ]
