@@ -3,5 +3,15 @@
     "Id": "options_1794375284374",
     "Name": "Camouflage 1",
     "Type": 3
+  },
+  {
+    "Id": "options_1794377876392",
+    "Name": "Camouflage 2",
+    "Type": 3
+  },
+  {
+    "Id": "options_1794377889746",
+    "Name": "Camouflage 3",
+    "Type": 3
   }
 ]
