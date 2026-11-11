@@ -44,5 +44,11 @@
     "OptionId": "options_cb33_mut_camo2",
     "UnitId": "units_cb33",
     "NewProfileId": "profiles_gp_s6_camo2"
+  },
+  {
+    "OptionId": "options_1794375284374",
+    "UnitId": "units_cb1803",
+    "NewUnitId": "",
+    "NewProfileId": "profiles_gp_s1_camo1"
   }
 ]
