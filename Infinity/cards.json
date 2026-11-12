@@ -1,1 +1,458 @@
-[]
+[
+  {
+    "Id": "Classified_assassination",
+    "Name": "Assassination",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_assassination.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_capture",
+    "Name": "Capture",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_capture.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_combatsupport",
+    "Name": "Combat Support",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_combatsupport.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_datascan",
+    "Name": "Datascan",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_datascan.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_designation",
+    "Name": "Designation",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_designation.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_hvtespionage",
+    "Name": "HVT Espionage",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_hvtespionage.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_hvtfollowup",
+    "Name": "HVT Follow-up",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_hvtfollowup.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_hvtidentitycheck",
+    "Name": "HVT Identity Check",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_hvtidentitycheck.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_hvtinoculation",
+    "Name": "HVT Inoculation",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_hvtinoculation.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_hvtkidnapping",
+    "Name": "HVT Kidnapping",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_hvtkidnapping.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_hvtreverseengineering",
+    "Name": "HVT Reverse Engineering",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_hvtreverseengineering.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_industrialespionage",
+    "Name": "Industrial Espionage",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_industrialespionage.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_mapping",
+    "Name": "Mapping",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_mapping.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_nanoesìonage",
+    "Name": "Nanoespionage",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_nanoes%C3%AConage.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_netundermine",
+    "Name": "Net Undermine",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_netundermine.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_predator",
+    "Name": "Predator",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_predator.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_sabotage",
+    "Name": "Sabotage",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_sabotage.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_suspectedinfiltration",
+    "Name": "Suspected Infiltration",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_suspectedinfiltration.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_telemetry",
+    "Name": "Telemetry",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_telemetry.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Classified_vigilance",
+    "Name": "Vigilance",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Classified_vigilance.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Classified.png"
+    }
+  },
+  {
+    "Id": "Condition_ambush",
+    "Name": "Ambush",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_ambush.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_aquaticcombat",
+    "Name": "Aquatic Combat",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_aquaticcombat.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_arcticcombat",
+    "Name": "Arctic Combat",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_arcticcombat.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_cqb",
+    "Name": "CQB",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_cqb.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_defensesystemfailure",
+    "Name": "Defense System Failure",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_defensesystemfailure.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_desertcombat",
+    "Name": "Desert Combat",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_desertcombat.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_hostilecivilians",
+    "Name": "Hostile Civilians",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_hostilecivilians.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_junglecombat",
+    "Name": "Jungle Combat",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_junglecombat.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_night",
+    "Name": "Night",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_night.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_spacecombat",
+    "Name": "Space Combat",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_spacecombat.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_storm",
+    "Name": "Storm",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_storm.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Condition_urbancombat",
+    "Name": "Urban Combat",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Condition_urbancombat.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Conditions.png",
+      "Width": 88,
+      "Length": 63
+    }
+  },
+  {
+    "Id": "Tactical_appropiatesupplies",
+    "Name": "Appropriate Supplies",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_appropiatesupplies.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_appropiation",
+    "Name": "Appropriation",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_appropiation.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_centralcontrol",
+    "Name": "Central Control",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_centralcontrol.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_cybersiege",
+    "Name": "Cyber Siege",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_cybersiege.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_decapitation",
+    "Name": "Decapitation",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_decapitation.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_decimatetheenemyforces",
+    "Name": "Decimate the Enemy Forces",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_decimatetheenemyforces.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_guardthesupplylines",
+    "Name": "Guard the Supply Lines",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_guardthesupplylines.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_hijacking",
+    "Name": "Hijacking",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_hijacking.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_interruptthesignal",
+    "Name": "Interrupt the Signal",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_interruptthesignal.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_kingofthehill",
+    "Name": "King of the Hill",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_kingofthehill.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_ndomination",
+    "Name": "N Domination",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_ndomination.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_prioritytarget",
+    "Name": "Priority Target",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_prioritytarget.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_silence",
+    "Name": "Silence",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_silence.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_survival",
+    "Name": "Survival",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_survival.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_triangulatethesignal",
+    "Name": "Triangulate the Signal",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_triangulatethesignal.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  },
+  {
+    "Id": "Tactical_zdomination",
+    "Name": "Z Domination",
+    "Type": "Card",
+    "UIConfig": {
+      "ImageURL": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/Tactical_zdomination.png",
+      "ImageURLBack": "https://raw.githubusercontent.com/HugoPila/WDSLicensedGames/refs/heads/main/Infinity/Infinity_Cards/InfinityBack_Tactical.png"
+    }
+  }
+]

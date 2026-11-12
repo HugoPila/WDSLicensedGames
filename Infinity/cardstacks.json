@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "Id": "Classified",
+    "Name": "Classified",
+    "DrawGroup": "1",
+    "CardIds": "Classified_assassination,Classified_capture,Classified_combatsupport,Classified_datascan,Classified_designation,Classified_hvtespionage,Classified_hvtfollowup,Classified_hvtidentitycheck,Classified_hvtinoculation,Classified_hvtkidnapping,Classified_hvtreverseengineering,Classified_industrialespionage,Classified_mapping,Classified_nanoesìonage,Classified_netundermine,Classified_predator,Classified_sabotage,Classified_suspectedinfiltration,Classified_telemetry,Classified_vigilance",
+    "PositionX": "-20",
+    "PositionY": "0",
+    "Rotation": "0",
+    "RevealLocation": "Right",
+    "OwnerPlayerId": "0"
+  },
+  {
+    "Id": "Condition",
+    "Name": "Condition",
+    "DrawGroup": "1",
+    "CardIds": "Condition_ambush,Condition_aquaticcombat,Condition_arcticcombat,Condition_cqb,Condition_defensesystemfailure,Condition_desertcombat,Condition_hostilecivilians,Condition_junglecombat,Condition_night,Condition_spacecombat,Condition_storm,Condition_urbancombat",
+    "PositionX": "0",
+    "PositionY": "0",
+    "Rotation": "0",
+    "RevealLocation": "Right",
+    "OwnerPlayerId": "0"
+  },
+  {
+    "Id": "Tactical",
+    "Name": "Tactical",
+    "DrawGroup": "1",
+    "CardIds": "Tactical_appropiatesupplies,Tactical_appropiation,Tactical_centralcontrol,Tactical_cybersiege,Tactical_decapitation,Tactical_decimatetheenemyforces,Tactical_guardthesupplylines,Tactical_hijacking,Tactical_interruptthesignal,Tactical_kingofthehill,Tactical_ndomination,Tactical_prioritytarget,Tactical_silence,Tactical_survival,Tactical_triangulatethesignal,Tactical_zdomination",
+    "PositionX": "20",
+    "PositionY": "0",
+    "Rotation": "0",
+    "RevealLocation": "Right",
+    "OwnerPlayerId": "0"
+  }
+]
