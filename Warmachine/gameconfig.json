@@ -12,6 +12,7 @@
       "Type": "Cloud"
     }
   ],
+  "ChessClockDefaultMinutes": 75,
   "DefaultFormation": "Cloud",
   "FormationChangingRules": [],
   "MaxCloudSeparation": 2,
