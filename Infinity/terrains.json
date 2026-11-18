@@ -1,200 +1,210 @@
 [
   {
-    "Id": "terrain_0",
-    "SkinId": 11625,
-    "Name": "7x11_5_I default",
+    "Id": "Biosphere Alpha",
+    "Name": "Biosphere Alpha",
     "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
+    "Width": 14.99,
+    "Length": 14.99,
     "Shape": 0
   },
   {
-    "Id": "terrain_1",
-    "SkinId": 11626,
-    "Name": "7x11_5_J default",
+    "Id": "Max-Sec Vault",
+    "Name": "Max-Sec Vault",
     "Type": "Terrain",
-    "Width": 26.67,
-    "Length": 17.78,
+    "Width": 9.91,
+    "Length": 9.91,
     "Shape": 0
   },
   {
-    "Id": "terrain_2",
-    "SkinId": 11627,
-    "Name": "7x11_5_K default",
+    "Id": "Power Plant",
+    "Name": "Power Plant",
     "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
+    "Width": 9.91,
+    "Length": 9.91,
     "Shape": 0
   },
   {
-    "Id": "terrain_3",
-    "SkinId": 11628,
-    "Name": "7x11_5_L default",
+    "Id": "Sniper Tower",
+    "Name": "Sniper Tower",
     "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
+    "Width": 9.91,
+    "Length": 9.91,
     "Shape": 0
   },
   {
-    "Id": "terrain_4",
-    "SkinId": 11629,
-    "Name": "10x11_5 A default",
+    "Id": "Test Facilities",
+    "Name": "Test Facilities",
     "Type": "Terrain",
-    "Width": 29.21,
+    "Width": 9.91,
+    "Length": 9.91,
+    "Shape": 0
+  },
+  {
+    "Id": "Xeno Farm Access",
+    "Name": "Xeno Farm Access",
+    "Type": "Terrain",
+    "Width": 9.91,
+    "Length": 9.91,
+    "Shape": 0
+  },
+  {
+    "Id": "Xeno Research labs",
+    "Name": "Xeno Research labs",
+    "Type": "Terrain",
+    "Width": 14.99,
+    "Length": 14.99,
+    "Shape": 0
+  },
+  {
+    "Id": "Xenogene",
+    "Name": "Xenogene",
+    "Type": "Terrain",
+    "Width": 20.07,
+    "Length": 20.07,
+    "Shape": 0
+  },
+  {
+    "Id": "Xenogene_open",
+    "Name": "Xenogene_open",
+    "Type": "Terrain",
+    "Width": 20.07,
+    "Length": 20.07,
+    "Shape": 0
+  },
+  {
+    "Id": "BP1 - CHECKPOINT",
+    "Name": "BP1 - CHECKPOINT",
+    "Type": "Terrain",
+    "Width": 7.98,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "BP4 - XENO FARMS",
+    "Name": "BP4 - XENO FARMS",
+    "Type": "Terrain",
+    "Width": 7.98,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "BP2 - ROVER BAY",
+    "Name": "BP2 - ROVER BAY",
+    "Type": "Terrain",
+    "Width": 5.08,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "BP3 - HOUSING AREA",
+    "Name": "BP3 - HOUSING AREA",
+    "Type": "Terrain",
+    "Width": 5.08,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "BP5 - DECONTAMINATION ZONE",
+    "Name": "BP5 - DECONTAMINATION ZONE",
+    "Type": "Terrain",
+    "Width": 5.08,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "Darpan Holoads 01",
+    "Name": "Darpan Holoads 01",
+    "Type": "Terrain",
+    "Width": 7.98,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "Darpan Holoads 02",
+    "Name": "Darpan Holoads 02",
+    "Type": "Terrain",
+    "Width": 7.98,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "Darpan Holoads 03",
+    "Name": "Darpan Holoads 03",
+    "Type": "Terrain",
+    "Width": 7.98,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "Darpan Holoads 04",
+    "Name": "Darpan Holoads 04",
+    "Type": "Terrain",
+    "Width": 7.98,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "Darpan Holoads 05",
+    "Name": "Darpan Holoads 05",
+    "Type": "Terrain",
+    "Width": 7.98,
+    "Length": 1.88,
+    "Shape": 0
+  },
+  {
+    "Id": "Console - OFF",
+    "Name": "Console - OFF",
+    "Type": "Terrain",
+    "Width": 38.1,
     "Length": 25.4,
     "Shape": 0
   },
   {
-    "Id": "terrain_5",
-    "SkinId": 11630,
-    "Name": "10x11_5 B default",
+    "Id": "Console - ON",
+    "Name": "Console - ON",
     "Type": "Terrain",
-    "Width": 29.21,
+    "Width": 38.1,
     "Length": 25.4,
     "Shape": 0
   },
   {
-    "Id": "terrain_6",
-    "SkinId": 11634,
-    "Name": "7x11_5_M default",
+    "Id": "CS TRIANGULAR CONSOLE",
+    "Name": "CS TRIANGULAR CONSOLE",
     "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
+    "Width": 40.64,
+    "Length": 25.4,
     "Shape": 0
   },
   {
-    "Id": "terrain_7",
-    "SkinId": 11635,
-    "Name": "7x11_5_N default",
+    "Id": "Gangway",
+    "Name": "Gangway",
     "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
+    "Width": 3.48,
+    "Length": 20.98,
     "Shape": 0
   },
   {
-    "Id": "terrain_8",
-    "SkinId": 11636,
-    "Name": "8x11_5_B default",
+    "Id": "Stair",
+    "Name": "Stair",
     "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 20.32,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_9",
-    "SkinId": 11637,
-    "Name": "7x11_5_O default",
-    "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_10",
-    "SkinId": 11638,
-    "Name": "7x11_5_P default",
-    "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_11",
-    "SkinId": 11639,
-    "Name": "7x11_5_Q default",
-    "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_12",
-    "SkinId": 11620,
-    "Name": "7x11_5_C default",
-    "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_13",
-    "SkinId": 11621,
-    "Name": "7x11_5_D default",
-    "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_14",
-    "SkinId": 11622,
-    "Name": "7x11_5_E default",
-    "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_15",
-    "SkinId": 11623,
-    "Name": "7x11_5_F default",
-    "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_16",
-    "SkinId": 11624,
-    "Name": "7x11_5_H default",
-    "Type": "Terrain",
-    "Width": 29.21,
-    "Length": 17.78,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_17",
-    "SkinId": 11421,
-    "Name": "6x2_A default",
-    "Type": "Terrain",
-    "Width": 15.24,
-    "Length": 5.08,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_18",
-    "SkinId": 11422,
-    "Name": "6x2_B default",
-    "Type": "Terrain",
-    "Width": 15.24,
-    "Length": 5.08,
-    "Shape": 0
-  },
-  {
-    "Id": "terrain_19",
-    "SkinId": 11423,
-    "Name": "6x4_A default",
-    "Type": "Terrain",
-    "Width": 15.24,
+    "Width": 3.48,
     "Length": 10.16,
     "Shape": 0
   },
   {
-    "Id": "terrain_20",
-    "SkinId": 11424,
-    "Name": "6x4_B default",
+    "Id": "Door - L",
+    "Name": "Door - L",
     "Type": "Terrain",
-    "Width": 15.24,
-    "Length": 10.16,
+    "Width": 5.99,
+    "Length": 1.02,
     "Shape": 0
   },
   {
-    "Id": "terrain_21",
-    "SkinId": 11428,
-    "Name": "10x2_5 default",
+    "Id": "Door - S",
+    "Name": "Door - S",
     "Type": "Terrain",
-    "Width": 25.4,
-    "Length": 6.35,
+    "Width": 3.48,
+    "Length": 1.02,
     "Shape": 0
   }
 ]
