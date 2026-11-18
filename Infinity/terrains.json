@@ -155,24 +155,24 @@
     "Id": "Console - OFF",
     "Name": "Console - OFF",
     "Type": "Terrain",
-    "Width": 38.1,
-    "Length": 25.4,
+    "Width": 3.81,
+    "Length": 2.54,
     "Shape": 0
   },
   {
     "Id": "Console - ON",
     "Name": "Console - ON",
     "Type": "Terrain",
-    "Width": 38.1,
-    "Length": 25.4,
+    "Width": 3.81,
+    "Length": 2.54,
     "Shape": 0
   },
   {
     "Id": "CS TRIANGULAR CONSOLE",
     "Name": "CS TRIANGULAR CONSOLE",
     "Type": "Terrain",
-    "Width": 40.64,
-    "Length": 25.4,
+    "Width": 4.06,
+    "Length": 2.54,
     "Shape": 0
   },
   {
