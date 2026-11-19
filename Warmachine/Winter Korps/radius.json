@@ -1,0 +1,58 @@
+[
+  {
+    "Id": "radius_1784600000008",
+    "Name": "Great Axe radius",
+    "Type": "Radius",
+    "Value": 2.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000009",
+    "Name": "Frost Driver radius",
+    "Type": "Radius",
+    "Value": 1.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000010",
+    "Name": "Heavy Drill radius",
+    "Type": "Radius",
+    "Value": 1.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000011",
+    "Name": "Battle Saw radius",
+    "Type": "Radius",
+    "Value": 1.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000012",
+    "Name": "Ram Piston radius",
+    "Type": "Radius",
+    "Value": 1.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000013",
+    "Name": "Pneumatic Lance radius",
+    "Type": "Radius",
+    "Value": 2.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000014",
+    "Name": "Wedge Shield radius",
+    "Type": "Radius",
+    "Value": 1.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000015",
+    "Name": "Bash radius",
+    "Type": "Radius",
+    "Value": 1.0,
+    "Color": "#800020"
+  }
+]

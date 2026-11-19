@@ -12,7 +12,9 @@
       "Type": "Cloud"
     }
   ],
-  "ChessClockDefaultMinutes": 75,
+  "UseTurnController": true,
+  "BattleReportScreenshotTiming": "AtEndOfTurn",
+  "BattleReportScreenshotAtDeployment": true,
   "DefaultFormation": "Cloud",
   "FormationChangingRules": [],
   "MaxCloudSeparation": 2,
@@ -31,7 +33,6 @@
   "ListParsingAlgorithm": 0,
   "PointCounting": "Disabled",
   "PointCountingStatusNames": [],
-  "UseTurnController": false,
   "DefaultZenithLight": false,
   "ShownButtons": [
     "Delete",
@@ -49,5 +50,37 @@
     "Shuffle Card Stack",
     "Flip Card",
     "Return Card"
-  ]
+  ],
+  "ExtraLines": {
+    "Quadrants": true,
+    "QuadrantsName": "Quadrants",
+    "Borders": [
+      { "Name": "6\" border", "Values": [6] }
+    ],
+    "MiddleCircles": [
+      { "Name": "3\" / 6\" circles", "Values": [3, 6] },
+      { "Name": "9\" circle", "Values": [9] }
+    ],
+    "Sides": [
+      { "Name": "3\" / 5\" sides", "Values": [3, 5] }
+    ],
+    "Grid": [
+      { "Name": "1\" grid", "Values": [1] }
+    ]
+  },
+  "Scoreboard": {
+    "Enabled": true,
+    "PlayerTrackers": [
+      { "Label": "Points", "ShowOverShared": "Points" }
+    ],
+    "PlayerColors": "Army"
+  },
+  "WoundCount": "Down",
+  "RandomTerrainGenerator": "Default",
+  "MarkShowsTrails": true,
+  "ChessClockDefaultMinutes": 75,
+  "VisibilityBlockUnits": true,
+  "VisibilityBlockAllies": true,
+  "VisibilityBlockTerrainBases": false,
+  "VisibilityBlockTerrain3D": true
 }

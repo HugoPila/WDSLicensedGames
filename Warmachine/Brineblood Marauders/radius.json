@@ -1,0 +1,51 @@
+[
+  {
+    "Id": "radius_1784600000001",
+    "Name": "Chum radius",
+    "Type": "Radius",
+    "Value": 6,
+    "Color": "#0000FF"
+  },
+  {
+    "Id": "radius_1784600000002",
+    "Name": "Open Bar radius",
+    "Type": "Radius",
+    "Value": 12,
+    "Color": "#FFFF00"
+  },
+  {
+    "Id": "radius_1784600000003",
+    "Name": "Siren Song radius",
+    "Type": "Radius",
+    "Value": 1.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000004",
+    "Name": "Great Maw radius",
+    "Type": "Radius",
+    "Value": 1.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000005",
+    "Name": "Mine Flail radius",
+    "Type": "Radius",
+    "Value": 2.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000006",
+    "Name": "Deep Viper radius",
+    "Type": "Radius",
+    "Value": 1.0,
+    "Color": "#800020"
+  },
+  {
+    "Id": "radius_1784600000007",
+    "Name": "Bayonet radius",
+    "Type": "Radius",
+    "Value": 2.0,
+    "Color": "#800020"
+  }
+]
