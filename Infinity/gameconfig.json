@@ -12,11 +12,6 @@
       "Type": "Cloud"
     }
   ],
-  "CardsOnHand": true,
-  "ShowCardinalPointsOnBases": true,
-  "cm": true,
-  "AllowUnitMutations": true,
-  "AllowSecretLists": true,
   "DefaultFormation": "Cloud",
   "FormationChangingRules": [],
   "MaxCloudSeparation": 2,
@@ -45,9 +40,6 @@
     }
   ],
   "DefaultZenithLight": false,
-  "BattleReportScreenshotTiming": "AtTokenFlip",
-  "BattleReportScreenshotItemId": "token_1",
-  "BattleReportScreenshotAtDeployment": true,
   "ShownButtons": [
     "Delete",
     "Radius",
@@ -64,5 +56,43 @@
     "Shuffle Card Stack",
     "Flip Card",
     "Return Card"
-  ]
+  ],
+  "ExtraLines": {
+    "Quadrants": true,
+    "QuadrantsName": "Quadrants",
+    "Borders": [],
+    "MiddleCircles": [],
+    "Sides": [],
+    "Grid": [
+      { "Name": "4\" grid", "Values": [4] }
+    ]
+  },
+  "Scoreboard": {
+    "Enabled": true,
+    "Rows": [
+      { "Label": "Round 1" },
+      { "Label": "Round 2" },
+      { "Label": "Round 3" }
+    ],
+    "Columns": [
+      { "Label": "Points" }
+    ],
+    "PlayerColors": "Army"
+  },
+  "WoundCount": "Up",
+  "RandomTerrainGenerator": "Default",
+  "MarkShowsTrails": true,
+  "ChessClockDefaultMinutes": 60,
+  "VisibilityBlockUnits": true,
+  "VisibilityBlockAllies": true,
+  "VisibilityBlockTerrainBases": false,
+  "VisibilityBlockTerrain3D": true,
+  "BattleReportScreenshotTiming": "AtTokenFlip",
+  "BattleReportScreenshotItemId": "token_1",
+  "BattleReportScreenshotAtDeployment": true,
+  "CardsOnHand": true,
+  "ShowCardinalPointsOnBases": true,
+  "cm": true,
+  "AllowUnitMutations": true,
+  "AllowSecretLists": true
 }

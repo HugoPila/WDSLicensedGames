@@ -5,7 +5,8 @@
     "Type": "Terrain",
     "Width": 14.99,
     "Length": 14.99,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Max-Sec Vault",
@@ -13,7 +14,8 @@
     "Type": "Terrain",
     "Width": 9.91,
     "Length": 9.91,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Power Plant",
@@ -21,7 +23,8 @@
     "Type": "Terrain",
     "Width": 9.91,
     "Length": 9.91,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Sniper Tower",
@@ -29,7 +32,8 @@
     "Type": "Terrain",
     "Width": 9.91,
     "Length": 9.91,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Test Facilities",
@@ -37,7 +41,8 @@
     "Type": "Terrain",
     "Width": 9.91,
     "Length": 9.91,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Xeno Farm Access",
@@ -45,7 +50,8 @@
     "Type": "Terrain",
     "Width": 9.91,
     "Length": 9.91,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Xeno Research labs",
@@ -53,7 +59,8 @@
     "Type": "Terrain",
     "Width": 14.99,
     "Length": 14.99,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Xenogene",
@@ -61,7 +68,8 @@
     "Type": "Terrain",
     "Width": 20.07,
     "Length": 20.07,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Xenogene_open",
@@ -69,7 +77,8 @@
     "Type": "Terrain",
     "Width": 20.07,
     "Length": 20.07,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "BP1 - CHECKPOINT",
@@ -77,7 +86,8 @@
     "Type": "Terrain",
     "Width": 7.98,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "BP4 - XENO FARMS",
@@ -85,7 +95,8 @@
     "Type": "Terrain",
     "Width": 7.98,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "BP2 - ROVER BAY",
@@ -93,7 +104,8 @@
     "Type": "Terrain",
     "Width": 5.08,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "BP3 - HOUSING AREA",
@@ -101,7 +113,8 @@
     "Type": "Terrain",
     "Width": 5.08,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "BP5 - DECONTAMINATION ZONE",
@@ -109,7 +122,8 @@
     "Type": "Terrain",
     "Width": 5.08,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Darpan Holoads 01",
@@ -117,7 +131,8 @@
     "Type": "Terrain",
     "Width": 7.98,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Darpan Holoads 02",
@@ -125,7 +140,8 @@
     "Type": "Terrain",
     "Width": 7.98,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Darpan Holoads 03",
@@ -133,7 +149,8 @@
     "Type": "Terrain",
     "Width": 7.98,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Darpan Holoads 04",
@@ -141,7 +158,8 @@
     "Type": "Terrain",
     "Width": 7.98,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Darpan Holoads 05",
@@ -149,7 +167,8 @@
     "Type": "Terrain",
     "Width": 7.98,
     "Length": 1.88,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Console - OFF",
@@ -157,7 +176,8 @@
     "Type": "Terrain",
     "Width": 3.81,
     "Length": 2.54,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Console - ON",
@@ -165,7 +185,8 @@
     "Type": "Terrain",
     "Width": 3.81,
     "Length": 2.54,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "CS TRIANGULAR CONSOLE",
@@ -173,7 +194,8 @@
     "Type": "Terrain",
     "Width": 4.06,
     "Length": 2.54,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Gangway",
@@ -181,7 +203,8 @@
     "Type": "Terrain",
     "Width": 3.48,
     "Length": 20.98,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Stair",
@@ -189,7 +212,8 @@
     "Type": "Terrain",
     "Width": 3.48,
     "Length": 10.16,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Door - L",
@@ -197,7 +221,8 @@
     "Type": "Terrain",
     "Width": 5.99,
     "Length": 1.02,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   },
   {
     "Id": "Door - S",
@@ -205,6 +230,7 @@
     "Type": "Terrain",
     "Width": 3.48,
     "Length": 1.02,
-    "Shape": 0
+    "Shape": 0,
+    "IsBaseTransparent": true
   }
 ]
